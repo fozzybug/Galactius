@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Content/Shop/Shop_hud.uasset",
+				"C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Content/Shop/Powerups/Powerups_base.uasset",
+				"C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Content/Shop/Powerups/Homing_Missle.uasset",
+				"C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Content/Ship/Ship.uasset",
+				"C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Content/GameMode/RoundGameMode.uasset",
 				"C:/Users/Cassandra/Desktop/Liams game/Galactius/Galactius_project/Content/Ship/HUD/Enemy_dection.uasset",
 				"C:/Users/Cassandra/Desktop/Liams game/Galactius/Galactius_project/Content/Enemies/Fighter/FighterSpawn.uasset",
 				"C:/Users/Cassandra/Desktop/Liams game/Galactius/Galactius_project/Content/__ExternalActors__/base/7/KM/VNSKCK4W44SNW1Y3BAMUVQ.uasset",
