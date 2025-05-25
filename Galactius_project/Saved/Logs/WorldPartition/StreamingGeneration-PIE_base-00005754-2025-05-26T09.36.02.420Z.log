@@ -1,0 +1,931 @@
+[+] Containers:
+ |- [+] Container: /Game/base
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:01D9F5BC4BDBF6BB50EDE9BAEA8C6433 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1460318001 Label:asteroid42 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-47715.060 Y=5839.279 Z=20120.537), Max=(X=-39708.369 Y=15726.987 Z=29353.691) RuntimeBounds:IsValid=true, Min=(X=-47715.060 Y=5839.279 Z=20120.537), Max=(X=-39708.369 Y=15726.987 Z=29353.691) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:0375FAB34E3B33A0835A5EA1B5DECDC6 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460329013 Label:asteroid54 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=84667.712 Y=97818.026 Z=-11732.877), Max=(X=104990.549 Y=122338.317 Z=10117.709) RuntimeBounds:IsValid=true, Min=(X=84667.712 Y=97818.026 Z=-11732.877), Max=(X=104990.549 Y=122338.317 Z=10117.709) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-2648338.711 Y=-2615825.799 Z=-2638949.799), Max=(X=2617069.289 Y=2649582.201 Z=2626458.201) RuntimeBounds:IsValid=true, Min=(X=-2648338.711 Y=-2615825.799 Z=-2638949.799), Max=(X=2617069.289 Y=2649582.201 Z=2626458.201) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:0562697F4239FFAB14587F91CE2BA8C6 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1212636988 Label:asteroid29 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=16251.774 Y=-25784.801 Z=-7001.000), Max=(X=22415.280 Y=-19621.295 Z=-2489.000) RuntimeBounds:IsValid=true, Min=(X=16251.774 Y=-25784.801 Z=-7001.000), Max=(X=22415.280 Y=-19621.295 Z=-2489.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:09E874544B6169B5A3B4C698E2351632 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460314998 Label:asteroid39 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-34314.225 Y=68202.936 Z=-7144.085), Max=(X=-26507.309 Y=77434.310 Z=733.259) RuntimeBounds:IsValid=true, Min=(X=-34314.225 Y=68202.936 Z=-7144.085), Max=(X=-26507.309 Y=77434.310 Z=733.259) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:0C1ADE1C4640489FD52BB1AD1A7A824E BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1460320003 Label:asteroid44 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-42897.662 Y=-6354.030 Z=37741.257), Max=(X=-23332.457 Y=16952.710 Z=59505.120) RuntimeBounds:IsValid=true, Min=(X=-42205.372 Y=-6354.030 Z=37741.257), Max=(X=-23332.457 Y=16952.710 Z=59505.120) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:0E5A42E34F67E2B111C679B10A2C31E6 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460335020 Label:asteroid61 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=941.657 Y=103306.885 Z=-19679.952), Max=(X=8044.153 Y=111876.322 Z=-12043.534) RuntimeBounds:IsValid=true, Min=(X=941.657 Y=103306.885 Z=-19679.952), Max=(X=8044.153 Y=111876.322 Z=-12043.534) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:0F14813C476E9B3FDBF53EBBA6193B08 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1143489974 Label:asteroid16 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-134881.192 Y=-87075.770 Z=-8827.000), Max=(X=-126706.896 Y=-78901.474 Z=-2843.000) RuntimeBounds:IsValid=true, Min=(X=-134881.192 Y=-87075.770 Z=-8827.000), Max=(X=-126706.896 Y=-78901.474 Z=-2843.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:1A8D58714EE2DAB7C543EDA630212DEE BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1460312996 Label:asteroid37 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-28725.854 Y=54843.862 Z=-11862.894), Max=(X=-21158.032 Y=63792.518 Z=-4226.800) RuntimeBounds:IsValid=true, Min=(X=-28725.854 Y=54843.862 Z=-11862.894), Max=(X=-21158.032 Y=63792.518 Z=-4226.800) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:1BDD9401406713C0E39C22B35DD4F795 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1165554984 Label:asteroid26 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=37622.571 Y=-88876.628 Z=-44040.029), Max=(X=64223.915 Y=-62275.284 Z=-24566.494) RuntimeBounds:IsValid=true, Min=(X=37622.571 Y=-88876.628 Z=-44040.029), Max=(X=64223.915 Y=-62275.284 Z=-24566.494) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:1C5D88A6490650B226E492B71B24AD26 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1460315999 Label:asteroid40 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-64308.085 Y=103835.733 Z=5575.122), Max=(X=-55709.033 Y=114003.779 Z=14251.749) RuntimeBounds:IsValid=true, Min=(X=-64308.085 Y=103835.733 Z=5575.122), Max=(X=-55709.033 Y=114003.779 Z=14251.749) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-1.000 Z=-1.000), Max=(X=1.000 Y=1.000 Z=2220.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=2220.000), Max=(X=0.000 Y=0.000 Z=2220.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:2047312642BF6A16255EFC9F2DC8883B BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1083156968 Label:asteroid10 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-22202.419 Y=-9767.419 Z=-10812.419), Max=(X=-17117.581 Y=-4682.581 Z=-5727.581) RuntimeBounds:IsValid=true, Min=(X=-22202.419 Y=-9767.419 Z=-10812.419), Max=(X=-17117.581 Y=-4682.581 Z=-5727.581) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:207D9A1441634D0EA30AD99C2D3FE1CA BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1143491975 Label:asteroid17 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-80033.742 Y=-61201.923 Z=-26339.623), Max=(X=-69994.486 Y=-51162.667 Z=-18990.377) RuntimeBounds:IsValid=true, Min=(X=-80033.742 Y=-61201.923 Z=-26339.623), Max=(X=-69994.486 Y=-51162.667 Z=-18990.377) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:250E36004681D169DBAD94A220532FA5 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1080597967 Label:asteroid9 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-21301.837 Y=11578.163 Z=7008.163), Max=(X=-15198.163 Y=17681.837 Z=13111.837) RuntimeBounds:IsValid=true, Min=(X=-21301.837 Y=11578.163 Z=7008.163), Max=(X=-15198.163 Y=17681.837 Z=13111.837) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- Guid:336735304E4A308B1AC023A9A7D6FF06 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1165552981 Label:asteroid23 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=74090.717 Y=-111755.714 Z=-7546.262), Max=(X=95750.416 Y=-90096.015 Z=8309.738) RuntimeBounds:IsValid=true, Min=(X=74090.717 Y=-111755.714 Z=-7546.262), Max=(X=95750.416 Y=-90096.015 Z=8309.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:34238EE84702DD18B01CC6A0104D3452 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1143489973 Label:asteroid15 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-96108.251 Y=-62860.055 Z=-38382.084), Max=(X=-86376.457 Y=-53128.260 Z=-31257.916) RuntimeBounds:IsValid=true, Min=(X=-96108.251 Y=-62860.055 Z=-38382.084), Max=(X=-86376.457 Y=-53128.260 Z=-31257.916) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:3589E2414E82006CE6DB93AF785C0E82 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1460327010 Label:asteroid51 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=20867.681 Y=79590.501 Z=-7483.682), Max=(X=44340.557 Y=107911.437 Z=17753.744) RuntimeBounds:IsValid=true, Min=(X=20867.681 Y=79590.501 Z=-7483.682), Max=(X=44340.557 Y=107911.437 Z=17753.744) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:384D230D4BCD6B9EDD67CAB06A97B005 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460332016 Label:asteroid57 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=41077.177 Y=73996.988 Z=-43484.409), Max=(X=66036.655 Y=104111.567 Z=-16648.628) RuntimeBounds:IsValid=true, Min=(X=41077.177 Y=73996.988 Z=-43484.409), Max=(X=66036.655 Y=104111.567 Z=-16648.628) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:39F28A0B468522CEC7C708902A1611D4 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1212639990 Label:asteroid31 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=9496.991 Y=-21688.009 Z=-10812.419), Max=(X=16443.009 Y=-14741.991 Z=-5727.581) RuntimeBounds:IsValid=true, Min=(X=9496.991 Y=-21688.009 Z=-10812.419), Max=(X=16443.009 Y=-14741.991 Z=-5727.581) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:3C7ED47145208E16E2139E91293F669C BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460335019 Label:asteroid60 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-10143.103 Y=104871.739 Z=-8747.076), Max=(X=-4360.015 Y=111849.259 Z=-2529.251) RuntimeBounds:IsValid=true, Min=(X=-10143.103 Y=104871.739 Z=-8747.076), Max=(X=-4360.015 Y=111849.259 Z=-2529.251) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:3DE8FF624EA6FE02BF51A1A7CBD3F333 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1460322005 Label:asteroid46 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-55420.326 Y=-7935.993 Z=-1928.244), Max=(X=-47167.291 Y=2255.933 Z=7588.988) RuntimeBounds:IsValid=true, Min=(X=-55420.326 Y=-7935.993 Z=-1928.244), Max=(X=-47167.291 Y=2255.933 Z=7588.988) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:4268099041C99D950274FAA407DE4F60 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1076166965 Label:asteroid7 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-27556.000 Y=-75751.000 Z=-4181.000), Max=(X=-23044.000 Y=-71239.000 Z=331.000) RuntimeBounds:IsValid=true, Min=(X=-27556.000 Y=-75751.000 Z=-4181.000), Max=(X=-23044.000 Y=-71239.000 Z=331.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:4642539640CE285034952B9A677BCFE4 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1460328012 Label:asteroid53 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-19904.709 Y=-18691.203 Z=29649.574), Max=(X=35424.214 Y=48065.289 Z=89137.793) RuntimeBounds:IsValid=true, Min=(X=-19904.709 Y=-18691.203 Z=29649.574), Max=(X=35424.214 Y=48065.289 Z=89137.793) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:47D499024EBB3E1A345C7C9F8503C72B BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F66B02_2137884784 Label:asteroid2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-24380.680 Y=-35915.680 Z=-7350.680), Max=(X=-19169.320 Y=-30704.320 Z=-2139.320) RuntimeBounds:IsValid=true, Min=(X=-24380.680 Y=-35915.680 Z=-7350.680), Max=(X=-19169.320 Y=-30704.320 Z=-2139.320) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:47F979744E60FEC2A5F5C098367DC1FB BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1212637989 Label:asteroid30 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=25222.988 Y=-33701.497 Z=-17385.705), Max=(X=32792.694 Y=-26131.791 Z=-11844.295) RuntimeBounds:IsValid=true, Min=(X=25222.988 Y=-33701.497 Z=-17385.705), Max=(X=32792.694 Y=-26131.791 Z=-11844.295) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:4A9EDEC04636FA8509D4C3977A90F1FE BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460321004 Label:asteroid45 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-41114.835 Y=28694.477 Z=12662.946), Max=(X=-34182.634 Y=37255.264 Z=20657.019) RuntimeBounds:IsValid=true, Min=(X=-41114.835 Y=28694.477 Z=12662.946), Max=(X=-34182.634 Y=37255.264 Z=20657.019) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:4AC0FA06496687F665C0B5BE9A8A80EA BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1460331015 Label:asteroid56 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-114495.120 Y=50432.261 Z=16060.132), Max=(X=-94172.282 Y=74952.552 Z=37910.718) RuntimeBounds:IsValid=true, Min=(X=-114495.120 Y=50432.261 Z=16060.132), Max=(X=-94172.282 Y=74952.552 Z=37910.718) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:4DCB59A143A01042588248993846EA4E BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F66B02_2140852785 Label:asteroid3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-19801.000 Y=-5956.000 Z=49.000), Max=(X=-15289.000 Y=-1444.000 Z=4561.000) RuntimeBounds:IsValid=true, Min=(X=-19801.000 Y=-5956.000 Z=49.000), Max=(X=-15289.000 Y=-1444.000 Z=4561.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:4F7D9F50425670CA884BC4B037E457F2 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1165550979 Label:asteroid21 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=103464.962 Y=-140158.027 Z=17228.738), Max=(X=125124.661 Y=-118498.328 Z=33084.738) RuntimeBounds:IsValid=true, Min=(X=103464.962 Y=-140158.027 Z=17228.738), Max=(X=125124.661 Y=-118498.328 Z=33084.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:5092AA164DDEDC08069BBF86A1BF976C BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1165548978 Label:asteroid20 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=19104.566 Y=-76935.681 Z=-8775.102), Max=(X=44121.518 Y=-51918.729 Z=9538.578) RuntimeBounds:IsValid=true, Min=(X=19104.566 Y=-76935.681 Z=-8775.102), Max=(X=44121.518 Y=-51918.729 Z=9538.578) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- Guid:55D2C3064D2F6E1158EAE993A30E879F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460336021 Label:asteroid62 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-18038.651 Y=101353.311 Z=-11773.616), Max=(X=-11521.349 Y=109216.689 Z=-4766.384) RuntimeBounds:IsValid=true, Min=(X=-18038.651 Y=101353.311 Z=-11773.616), Max=(X=-11521.349 Y=109216.689 Z=-4766.384) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:567BC82C40DE087CBEC4C3B1595D3E14 NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_581031EC1979F76B02_1783214023 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-41308.000 Y=-10098.000 Z=6034.000), Max=(X=-40940.000 Y=-9842.000 Z=6290.000) RuntimeBounds:IsValid=true, Min=(X=-41220.000 Y=-10010.000 Z=6070.000), Max=(X=-41140.000 Y=-9930.000 Z=6254.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:5EB4349D473E6DA5D11E87AC6C9EB48F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1165552982 Label:asteroid24 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=12371.921 Y=-53630.236 Z=-75949.332), Max=(X=38158.575 Y=-27843.582 Z=-57072.191) RuntimeBounds:IsValid=true, Min=(X=12371.921 Y=-53630.236 Z=-75949.332), Max=(X=38158.575 Y=-27843.582 Z=-57072.191) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:61193F834AC2725D2D925EBD0136D39B BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460311995 Label:asteroid36 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-41863.804 Y=80690.312 Z=-141.927), Max=(X=-35507.154 Y=88206.804 Z=6272.069) RuntimeBounds:IsValid=true, Min=(X=-41863.804 Y=80690.312 Z=-141.927), Max=(X=-35507.154 Y=88206.804 Z=6272.069) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:62D2F7B046EC397557A2DABAA9AC1B44 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1165555985 Label:asteroid27 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-37984.152 Y=-3834.237 Z=10925.296), Max=(X=-37392.821 Y=-3242.905 Z=11358.181) RuntimeBounds:IsValid=true, Min=(X=-37984.152 Y=-3834.237 Z=10925.296), Max=(X=-37392.821 Y=-3242.905 Z=11358.181) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:6F058D5840D9C52C0816099CC0C5E34C BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1143492976 Label:asteroid18 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-30431.270 Y=-38177.417 Z=6012.528), Max=(X=-19373.371 Y=-27119.518 Z=14107.472) RuntimeBounds:IsValid=true, Min=(X=-30431.270 Y=-38177.417 Z=6012.528), Max=(X=-19373.371 Y=-27119.518 Z=14107.472) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:6F0B16D14E4EEB05F4C0BB9A3440AB34 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F66B02_2143316786 Label:asteroid4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-19660.000 Y=-47911.960 Z=4623.040), Max=(X=-5763.040 Y=-35628.040 Z=16906.960) RuntimeBounds:IsValid=true, Min=(X=-18046.960 Y=-47911.960 Z=4623.040), Max=(X=-5763.040 Y=-35628.040 Z=16906.960) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:713AEC1349CED5DCFEA1EE87EA7713BA BaseClass:/Game/Enemies/Fighter/FighterSpawn.FighterSpawn_C NativeClass:/Script/Engine.Actor Name:FighterSpawn_C_UAID_D85ED37C95663F4102_1806650223 Label:FighterSpawn SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2395.000 Y=-1043.689 Z=-126.263), Max=(X=5145.000 Y=2196.313 Z=3113.738) RuntimeBounds:IsValid=true, Min=(X=2395.000 Y=-1043.689 Z=-126.263), Max=(X=5145.000 Y=2196.313 Z=3113.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:783C72964BAD47BD9A712183DD221230 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F66B02_2145593787 Label:asteroid5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-22621.000 Y=-17236.000 Z=-7001.000), Max=(X=-18109.000 Y=-12724.000 Z=-2489.000) RuntimeBounds:IsValid=true, Min=(X=-22621.000 Y=-17236.000 Z=-7001.000), Max=(X=-18109.000 Y=-12724.000 Z=-2489.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:7D9890D341DC5A2324C8A4AACF8D1D0A BaseClass:/Game/Ship/Ship.Ship_C NativeClass:/Script/Engine.Character Name:Ship_C_UAID_74D83E79ADE1652402_1356312288 Label:Ship SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-49664.000 Y=-568.500 Z=1316.000), Max=(X=999951135.000 Y=1451.500 Z=3336.000) RuntimeBounds:IsValid=true, Min=(X=-49357.960 Y=48.960 Z=1906.960), Max=(X=999951135.000 Y=831.040 Z=2776.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:817E15FC4868E66BF17FE5B63F130E74 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid1.asteroid1_C NativeClass:/Script/Engine.Actor Name:asteroid1_C_UAID_581031EC1979F76B02_1460306991 Label:asteroid32 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-55580.432 Y=57420.600 Z=15016.511), Max=(X=-44415.390 Y=70622.829 Z=26282.276) RuntimeBounds:IsValid=true, Min=(X=-55580.432 Y=57420.600 Z=15016.511), Max=(X=-44415.390 Y=70622.829 Z=26282.276) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:81F21FA74DD2A04A28EE498D7BD9A7A1 BaseClass:/Game/Enemies/Fighter/FighterSpawn.FighterSpawn_C NativeClass:/Script/Engine.Actor Name:FighterSpawn_C_UAID_D85ED37C9566444102_1109541104 Label:FighterSpawn2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2405.000 Y=11326.311 Z=-126.263), Max=(X=5155.000 Y=14566.313 Z=3113.738) RuntimeBounds:IsValid=true, Min=(X=2405.000 Y=11326.311 Z=-126.263), Max=(X=5155.000 Y=14566.313 Z=3113.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- Guid:891E38DA45F08C26E5659F991883A412 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1143487971 Label:asteroid13 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-96600.784 Y=-88463.327 Z=2849.280), Max=(X=-74346.264 Y=-66208.806 Z=19140.720) RuntimeBounds:IsValid=true, Min=(X=-96600.784 Y=-88463.327 Z=2849.280), Max=(X=-74346.264 Y=-66208.806 Z=19140.720) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:910610DE498FC93B0131C28484D1C0B9 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid1.asteroid1_C NativeClass:/Script/Engine.Actor Name:asteroid1_C_UAID_581031EC1979F66B02_2123312783 Label:asteroid1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-50910.335 Y=-26480.819 Z=829.949), Max=(X=-42985.301 Y=-18555.785 Z=8754.983) RuntimeBounds:IsValid=true, Min=(X=-50910.335 Y=-26480.819 Z=829.949), Max=(X=-42985.301 Y=-18555.785 Z=8754.983) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:9257B35241DE41B9B93551876B26D83F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1143488972 Label:asteroid14 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-64400.787 Y=-53941.412 Z=-12567.000), Max=(X=-56226.492 Y=-45767.116 Z=-6583.000) RuntimeBounds:IsValid=true, Min=(X=-64400.787 Y=-53941.412 Z=-12567.000), Max=(X=-56226.492 Y=-45767.116 Z=-6583.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:94DC497F4EC7359E04A269AA9B752DE1 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460317000 Label:asteroid41 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-47754.830 Y=84199.237 Z=-5751.119), Max=(X=-40591.147 Y=92670.014 Z=1477.189) RuntimeBounds:IsValid=true, Min=(X=-47754.830 Y=84199.237 Z=-5751.119), Max=(X=-40591.147 Y=92670.014 Z=1477.189) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:A32F6E8040DE462828D3F1956AC08171 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1460313997 Label:asteroid38 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-210.871 Y=42757.974 Z=16665.296), Max=(X=6145.779 Y=50274.466 Z=23079.292) RuntimeBounds:IsValid=true, Min=(X=-210.871 Y=42757.974 Z=16665.296), Max=(X=6145.779 Y=50274.466 Z=23079.292) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:A38ADEB34AE2D9A12F8C49AA614F56F1 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1460330014 Label:asteroid55 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1721.520 Y=66016.283 Z=-74275.399), Max=(X=22473.552 Y=95208.576 Z=-48261.487) RuntimeBounds:IsValid=true, Min=(X=-1721.520 Y=66016.283 Z=-74275.399), Max=(X=22473.552 Y=95208.576 Z=-48261.487) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:A5C96EFE44F725F76FE7B9A19E608E59 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1165556986 Label:asteroid28 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=95078.379 Y=-128902.487 Z=-20940.291), Max=(X=119487.966 Y=-104492.900 Z=-3071.233) RuntimeBounds:IsValid=true, Min=(X=95078.379 Y=-128902.487 Z=-20940.291), Max=(X=119487.966 Y=-104492.900 Z=-3071.233) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:ACB976BC41C5830A95380CBF24794A75 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460333018 Label:asteroid59 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=109833.960 Y=98595.814 Z=-27152.064), Max=(X=132736.958 Y=126229.170 Z=-2527.355) RuntimeBounds:IsValid=true, Min=(X=109833.960 Y=98595.814 Z=-27152.064), Max=(X=132736.958 Y=126229.170 Z=-2527.355) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:AE42E4D740AED3A2E85168B742E66ED2 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1078181966 Label:asteroid8 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-24545.705 Y=-29735.705 Z=-17385.705), Max=(X=-19004.295 Y=-24194.295 Z=-11844.295) RuntimeBounds:IsValid=true, Min=(X=-24545.705 Y=-29735.705 Z=-17385.705), Max=(X=-19004.295 Y=-24194.295 Z=-11844.295) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:B1B625CD4E8C527E919D6994A567ED3F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460323007 Label:asteroid48 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-46507.353 Y=8836.508 Z=4693.206), Max=(X=-37993.575 Y=19350.431 Z=14511.121) RuntimeBounds:IsValid=true, Min=(X=-46507.353 Y=8836.508 Z=4693.206), Max=(X=-37993.575 Y=19350.431 Z=14511.121) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:B7989B654737DE5080D12CBFDD5D5F63 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1074025964 Label:asteroid6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-29395.850 Y=-40930.850 Z=-26465.850), Max=(X=-24024.150 Y=-35559.150 Z=-21094.150) RuntimeBounds:IsValid=true, Min=(X=-29395.850 Y=-40930.850 Z=-26465.850), Max=(X=-24024.150 Y=-35559.150 Z=-21094.150) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:B913B07345C74ABE9B5EC382F492DE84 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1460309993 Label:asteroid34 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-48692.124 Y=91944.898 Z=3264.193), Max=(X=-42335.474 Y=99461.390 Z=9678.188) RuntimeBounds:IsValid=true, Min=(X=-48692.124 Y=91944.898 Z=3264.193), Max=(X=-42335.474 Y=99461.390 Z=9678.188) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:BA3D5284430AB4850711E7A6F5BAA5BF BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1460319002 Label:asteroid43 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-34833.876 Y=45126.319 Z=16632.307), Max=(X=-27901.675 Y=53687.105 Z=24626.380) RuntimeBounds:IsValid=true, Min=(X=-34833.876 Y=45126.319 Z=16632.307), Max=(X=-27901.675 Y=53687.105 Z=24626.380) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:BC41D3E141F27017D9F93CA99C3AC687 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1460310994 Label:asteroid35 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-21378.155 Y=69429.595 Z=12581.793), Max=(X=-4072.176 Y=89893.245 Z=30043.895) RuntimeBounds:IsValid=true, Min=(X=-21378.155 Y=69429.595 Z=12581.793), Max=(X=-4072.176 Y=89893.245 Z=30043.895) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:BF59AA6D4180BFD2B3401FB72F666B28 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1143486970 Label:asteroid12 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-49575.047 Y=-49700.348 Z=-3217.000), Max=(X=-41400.751 Y=-41526.052 Z=2767.000) RuntimeBounds:IsValid=true, Min=(X=-49575.047 Y=-49700.348 Z=-3217.000), Max=(X=-41400.751 Y=-41526.052 Z=2767.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:C253633A4DBF97DD0217E792CFA986E7 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1143484969 Label:asteroid11 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-87022.374 Y=-65110.450 Z=-13030.760), Max=(X=-77581.062 Y=-55669.139 Z=-6119.240) RuntimeBounds:IsValid=true, Min=(X=-87022.374 Y=-65110.450 Z=-13030.760), Max=(X=-77581.062 Y=-55669.139 Z=-6119.240) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:C45F9309430DA78A2477B493FE8C4A4A BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1460333017 Label:asteroid58 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-58862.862 Y=83988.065 Z=19718.893), Max=(X=-58308.028 Y=84657.493 Z=20315.436) RuntimeBounds:IsValid=true, Min=(X=-58862.862 Y=83988.065 Z=19718.893), Max=(X=-58308.028 Y=84657.493 Z=20315.436) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:C46166074CC61AD5DD0C68AC8B957DF3 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1460328011 Label:asteroid52 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=125306.547 Y=110280.872 Z=10096.022), Max=(X=145629.384 Y=134801.163 Z=31946.608) RuntimeBounds:IsValid=true, Min=(X=125306.547 Y=110280.872 Z=10096.022), Max=(X=145629.384 Y=134801.163 Z=31946.608) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:C8006BCD47A8C088B95808BCF4C63E93 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1460308992 Label:asteroid33 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-29221.181 Y=68021.063 Z=3760.195), Max=(X=-21879.250 Y=76702.611 Z=11168.360) RuntimeBounds:IsValid=true, Min=(X=-29221.181 Y=68021.063 Z=3760.195), Max=(X=-21879.250 Y=76702.611 Z=11168.360) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:ECBC03CC4DBDDD15589C42818A1692E9 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460326009 Label:asteroid50 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-38848.119 Y=35917.440 Z=4353.719), Max=(X=-31035.815 Y=45565.093 Z=13362.710) RuntimeBounds:IsValid=true, Min=(X=-38848.119 Y=35917.440 Z=4353.719), Max=(X=-31035.815 Y=45565.093 Z=13362.710) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:EF23E6B84DEF920D5ECC0C88F06BE83A BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1460325008 Label:asteroid49 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-32755.999 Y=69783.471 Z=16643.308), Max=(X=-23378.363 Y=81364.201 Z=27457.408) RuntimeBounds:IsValid=true, Min=(X=-32755.999 Y=69783.471 Z=16643.308), Max=(X=-23378.363 Y=81364.201 Z=27457.408) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:F0E43530411B41A0FD0D65A911724C2F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1460323006 Label:asteroid47 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-61036.375 Y=-40775.333 Z=41927.913), Max=(X=-54104.175 Y=-32214.547 Z=49921.986) RuntimeBounds:IsValid=true, Min=(X=-61036.375 Y=-40775.333 Z=41927.913), Max=(X=-54104.175 Y=-32214.547 Z=49921.986) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:F5814169478F77C961BB18A6C8E8B719 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1143493977 Label:asteroid19 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-55545.115 Y=-50127.545 Z=-17621.861), Max=(X=-46333.021 Y=-40915.451 Z=-10878.139) RuntimeBounds:IsValid=true, Min=(X=-55545.115 Y=-50127.545 Z=-17621.861), Max=(X=-46333.021 Y=-40915.451 Z=-10878.139) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- Guid:F91A5AAB46591AAA9405C5886A14099F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1165553983 Label:asteroid25 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-95320.995 Y=6079.593 Z=2363.738), Max=(X=-73661.295 Y=27739.292 Z=18219.738) RuntimeBounds:IsValid=true, Min=(X=-95320.995 Y=6079.593 Z=2363.738), Max=(X=-73661.295 Y=27739.292 Z=18219.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:01D9F5BC4BDBF6BB50EDE9BAEA8C6433 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1460318001 Label:asteroid42 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-47715.060 Y=5839.279 Z=20120.537), Max=(X=-39708.369 Y=15726.987 Z=29353.691) RuntimeBounds:IsValid=true, Min=(X=-47715.060 Y=5839.279 Z=20120.537), Max=(X=-39708.369 Y=15726.987 Z=29353.691) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:0375FAB34E3B33A0835A5EA1B5DECDC6 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460329013 Label:asteroid54 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=84667.712 Y=97818.026 Z=-11732.877), Max=(X=104990.549 Y=122338.317 Z=10117.709) RuntimeBounds:IsValid=true, Min=(X=84667.712 Y=97818.026 Z=-11732.877), Max=(X=104990.549 Y=122338.317 Z=10117.709) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:03920DF94EEFC9F86CC66185D32A3DA1 NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-2648338.711 Y=-2615825.799 Z=-2638949.799), Max=(X=2617069.289 Y=2649582.201 Z=2626458.201) RuntimeBounds:IsValid=true, Min=(X=-2648338.711 Y=-2615825.799 Z=-2638949.799), Max=(X=2617069.289 Y=2649582.201 Z=2626458.201) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:0562697F4239FFAB14587F91CE2BA8C6 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1212636988 Label:asteroid29 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=16251.774 Y=-25784.801 Z=-7001.000), Max=(X=22415.280 Y=-19621.295 Z=-2489.000) RuntimeBounds:IsValid=true, Min=(X=16251.774 Y=-25784.801 Z=-7001.000), Max=(X=22415.280 Y=-19621.295 Z=-2489.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:09E874544B6169B5A3B4C698E2351632 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460314998 Label:asteroid39 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-34314.225 Y=68202.936 Z=-7144.085), Max=(X=-26507.309 Y=77434.310 Z=733.259) RuntimeBounds:IsValid=true, Min=(X=-34314.225 Y=68202.936 Z=-7144.085), Max=(X=-26507.309 Y=77434.310 Z=733.259) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  5]
+ |   |   |   |- Guid:0C1ADE1C4640489FD52BB1AD1A7A824E BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1460320003 Label:asteroid44 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-42897.662 Y=-6354.030 Z=37741.257), Max=(X=-23332.457 Y=16952.710 Z=59505.120) RuntimeBounds:IsValid=true, Min=(X=-42205.372 Y=-6354.030 Z=37741.257), Max=(X=-23332.457 Y=16952.710 Z=59505.120) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  6]
+ |   |   |   |- Guid:0E5A42E34F67E2B111C679B10A2C31E6 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460335020 Label:asteroid61 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=941.657 Y=103306.885 Z=-19679.952), Max=(X=8044.153 Y=111876.322 Z=-12043.534) RuntimeBounds:IsValid=true, Min=(X=941.657 Y=103306.885 Z=-19679.952), Max=(X=8044.153 Y=111876.322 Z=-12043.534) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  7]
+ |   |   |   |- Guid:0F14813C476E9B3FDBF53EBBA6193B08 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1143489974 Label:asteroid16 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-134881.192 Y=-87075.770 Z=-8827.000), Max=(X=-126706.896 Y=-78901.474 Z=-2843.000) RuntimeBounds:IsValid=true, Min=(X=-134881.192 Y=-87075.770 Z=-8827.000), Max=(X=-126706.896 Y=-78901.474 Z=-2843.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  8]
+ |   |   |   |- Guid:1A8D58714EE2DAB7C543EDA630212DEE BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1460312996 Label:asteroid37 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-28725.854 Y=54843.862 Z=-11862.894), Max=(X=-21158.032 Y=63792.518 Z=-4226.800) RuntimeBounds:IsValid=true, Min=(X=-28725.854 Y=54843.862 Z=-11862.894), Max=(X=-21158.032 Y=63792.518 Z=-4226.800) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [  9]
+ |   |   |   |- Guid:1BDD9401406713C0E39C22B35DD4F795 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1165554984 Label:asteroid26 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=37622.571 Y=-88876.628 Z=-44040.029), Max=(X=64223.915 Y=-62275.284 Z=-24566.494) RuntimeBounds:IsValid=true, Min=(X=37622.571 Y=-88876.628 Z=-44040.029), Max=(X=64223.915 Y=-62275.284 Z=-24566.494) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 10]
+ |   |   |   |- Guid:1C5D88A6490650B226E492B71B24AD26 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1460315999 Label:asteroid40 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-64308.085 Y=103835.733 Z=5575.122), Max=(X=-55709.033 Y=114003.779 Z=14251.749) RuntimeBounds:IsValid=true, Min=(X=-64308.085 Y=103835.733 Z=5575.122), Max=(X=-55709.033 Y=114003.779 Z=14251.749) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 11]
+ |   |   |   |- Guid:1DE8D7AC4103A2EABA11649C7FCF8ACA NativeClass:/Script/Engine.SkyLight Name:SkyLight_UAID_A85E45CFE40401D200_1470380759 Label:SkyLight SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1.000 Y=-1.000 Z=-1.000), Max=(X=1.000 Y=1.000 Z=2220.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=2220.000), Max=(X=0.000 Y=0.000 Z=2220.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 12]
+ |   |   |   |- Guid:2047312642BF6A16255EFC9F2DC8883B BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1083156968 Label:asteroid10 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-22202.419 Y=-9767.419 Z=-10812.419), Max=(X=-17117.581 Y=-4682.581 Z=-5727.581) RuntimeBounds:IsValid=true, Min=(X=-22202.419 Y=-9767.419 Z=-10812.419), Max=(X=-17117.581 Y=-4682.581 Z=-5727.581) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 13]
+ |   |   |   |- Guid:207D9A1441634D0EA30AD99C2D3FE1CA BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1143491975 Label:asteroid17 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-80033.742 Y=-61201.923 Z=-26339.623), Max=(X=-69994.486 Y=-51162.667 Z=-18990.377) RuntimeBounds:IsValid=true, Min=(X=-80033.742 Y=-61201.923 Z=-26339.623), Max=(X=-69994.486 Y=-51162.667 Z=-18990.377) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 14]
+ |   |   |   |- Guid:250E36004681D169DBAD94A220532FA5 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1080597967 Label:asteroid9 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-21301.837 Y=11578.163 Z=7008.163), Max=(X=-15198.163 Y=17681.837 Z=13111.837) RuntimeBounds:IsValid=true, Min=(X=-21301.837 Y=11578.163 Z=7008.163), Max=(X=-15198.163 Y=17681.837 Z=13111.837) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 15]
+ |   |   |   |- Guid:2CE12F874AA39D020A0F4BA5739BD305 NativeClass:/Script/Engine.SkyAtmosphere Name:SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762 Label:SkyAtmosphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB
+ |   |   |- [+] [ 16]
+ |   |   |   |- Guid:336735304E4A308B1AC023A9A7D6FF06 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1165552981 Label:asteroid23 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=74090.717 Y=-111755.714 Z=-7546.262), Max=(X=95750.416 Y=-90096.015 Z=8309.738) RuntimeBounds:IsValid=true, Min=(X=74090.717 Y=-111755.714 Z=-7546.262), Max=(X=95750.416 Y=-90096.015 Z=8309.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 17]
+ |   |   |   |- Guid:34238EE84702DD18B01CC6A0104D3452 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1143489973 Label:asteroid15 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-96108.251 Y=-62860.055 Z=-38382.084), Max=(X=-86376.457 Y=-53128.260 Z=-31257.916) RuntimeBounds:IsValid=true, Min=(X=-96108.251 Y=-62860.055 Z=-38382.084), Max=(X=-86376.457 Y=-53128.260 Z=-31257.916) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 18]
+ |   |   |   |- Guid:3589E2414E82006CE6DB93AF785C0E82 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1460327010 Label:asteroid51 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=20867.681 Y=79590.501 Z=-7483.682), Max=(X=44340.557 Y=107911.437 Z=17753.744) RuntimeBounds:IsValid=true, Min=(X=20867.681 Y=79590.501 Z=-7483.682), Max=(X=44340.557 Y=107911.437 Z=17753.744) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 19]
+ |   |   |   |- Guid:384D230D4BCD6B9EDD67CAB06A97B005 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460332016 Label:asteroid57 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=41077.177 Y=73996.988 Z=-43484.409), Max=(X=66036.655 Y=104111.567 Z=-16648.628) RuntimeBounds:IsValid=true, Min=(X=41077.177 Y=73996.988 Z=-43484.409), Max=(X=66036.655 Y=104111.567 Z=-16648.628) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 20]
+ |   |   |   |- Guid:39F28A0B468522CEC7C708902A1611D4 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1212639990 Label:asteroid31 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=9496.991 Y=-21688.009 Z=-10812.419), Max=(X=16443.009 Y=-14741.991 Z=-5727.581) RuntimeBounds:IsValid=true, Min=(X=9496.991 Y=-21688.009 Z=-10812.419), Max=(X=16443.009 Y=-14741.991 Z=-5727.581) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 21]
+ |   |   |   |- Guid:3C7ED47145208E16E2139E91293F669C BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460335019 Label:asteroid60 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-10143.103 Y=104871.739 Z=-8747.076), Max=(X=-4360.015 Y=111849.259 Z=-2529.251) RuntimeBounds:IsValid=true, Min=(X=-10143.103 Y=104871.739 Z=-8747.076), Max=(X=-4360.015 Y=111849.259 Z=-2529.251) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 22]
+ |   |   |   |- Guid:3DE8FF624EA6FE02BF51A1A7CBD3F333 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1460322005 Label:asteroid46 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-55420.326 Y=-7935.993 Z=-1928.244), Max=(X=-47167.291 Y=2255.933 Z=7588.988) RuntimeBounds:IsValid=true, Min=(X=-55420.326 Y=-7935.993 Z=-1928.244), Max=(X=-47167.291 Y=2255.933 Z=7588.988) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 23]
+ |   |   |   |- Guid:4268099041C99D950274FAA407DE4F60 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1076166965 Label:asteroid7 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-27556.000 Y=-75751.000 Z=-4181.000), Max=(X=-23044.000 Y=-71239.000 Z=331.000) RuntimeBounds:IsValid=true, Min=(X=-27556.000 Y=-75751.000 Z=-4181.000), Max=(X=-23044.000 Y=-71239.000 Z=331.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 24]
+ |   |   |   |- Guid:4642539640CE285034952B9A677BCFE4 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1460328012 Label:asteroid53 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-19904.709 Y=-18691.203 Z=29649.574), Max=(X=35424.214 Y=48065.289 Z=89137.793) RuntimeBounds:IsValid=true, Min=(X=-19904.709 Y=-18691.203 Z=29649.574), Max=(X=35424.214 Y=48065.289 Z=89137.793) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 25]
+ |   |   |   |- Guid:47D499024EBB3E1A345C7C9F8503C72B BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F66B02_2137884784 Label:asteroid2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-24380.680 Y=-35915.680 Z=-7350.680), Max=(X=-19169.320 Y=-30704.320 Z=-2139.320) RuntimeBounds:IsValid=true, Min=(X=-24380.680 Y=-35915.680 Z=-7350.680), Max=(X=-19169.320 Y=-30704.320 Z=-2139.320) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 26]
+ |   |   |   |- Guid:47F979744E60FEC2A5F5C098367DC1FB BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1212637989 Label:asteroid30 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=25222.988 Y=-33701.497 Z=-17385.705), Max=(X=32792.694 Y=-26131.791 Z=-11844.295) RuntimeBounds:IsValid=true, Min=(X=25222.988 Y=-33701.497 Z=-17385.705), Max=(X=32792.694 Y=-26131.791 Z=-11844.295) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 27]
+ |   |   |   |- Guid:4A9EDEC04636FA8509D4C3977A90F1FE BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460321004 Label:asteroid45 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-41114.835 Y=28694.477 Z=12662.946), Max=(X=-34182.634 Y=37255.264 Z=20657.019) RuntimeBounds:IsValid=true, Min=(X=-41114.835 Y=28694.477 Z=12662.946), Max=(X=-34182.634 Y=37255.264 Z=20657.019) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 28]
+ |   |   |   |- Guid:4AC0FA06496687F665C0B5BE9A8A80EA BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1460331015 Label:asteroid56 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-114495.120 Y=50432.261 Z=16060.132), Max=(X=-94172.282 Y=74952.552 Z=37910.718) RuntimeBounds:IsValid=true, Min=(X=-114495.120 Y=50432.261 Z=16060.132), Max=(X=-94172.282 Y=74952.552 Z=37910.718) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 29]
+ |   |   |   |- Guid:4DCB59A143A01042588248993846EA4E BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F66B02_2140852785 Label:asteroid3 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-19801.000 Y=-5956.000 Z=49.000), Max=(X=-15289.000 Y=-1444.000 Z=4561.000) RuntimeBounds:IsValid=true, Min=(X=-19801.000 Y=-5956.000 Z=49.000), Max=(X=-15289.000 Y=-1444.000 Z=4561.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 30]
+ |   |   |   |- Guid:4F7D9F50425670CA884BC4B037E457F2 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1165550979 Label:asteroid21 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=103464.962 Y=-140158.027 Z=17228.738), Max=(X=125124.661 Y=-118498.328 Z=33084.738) RuntimeBounds:IsValid=true, Min=(X=103464.962 Y=-140158.027 Z=17228.738), Max=(X=125124.661 Y=-118498.328 Z=33084.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 31]
+ |   |   |   |- Guid:5092AA164DDEDC08069BBF86A1BF976C BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1165548978 Label:asteroid20 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=19104.566 Y=-76935.681 Z=-8775.102), Max=(X=44121.518 Y=-51918.729 Z=9538.578) RuntimeBounds:IsValid=true, Min=(X=19104.566 Y=-76935.681 Z=-8775.102), Max=(X=44121.518 Y=-51918.729 Z=9538.578) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 32]
+ |   |   |   |- Guid:5368FABB47D6D9580DAECA8B0417BF92 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true
+ |   |   |- [+] [ 33]
+ |   |   |   |- Guid:55D2C3064D2F6E1158EAE993A30E879F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460336021 Label:asteroid62 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-18038.651 Y=101353.311 Z=-11773.616), Max=(X=-11521.349 Y=109216.689 Z=-4766.384) RuntimeBounds:IsValid=true, Min=(X=-18038.651 Y=101353.311 Z=-11773.616), Max=(X=-11521.349 Y=109216.689 Z=-4766.384) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 34]
+ |   |   |   |- Guid:567BC82C40DE087CBEC4C3B1595D3E14 NativeClass:/Script/Engine.PlayerStart Name:PlayerStart_UAID_581031EC1979F76B02_1783214023 Label:PlayerStart SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-41308.000 Y=-10098.000 Z=6034.000), Max=(X=-40940.000 Y=-9842.000 Z=6290.000) RuntimeBounds:IsValid=true, Min=(X=-41220.000 Y=-10010.000 Z=6070.000), Max=(X=-41140.000 Y=-9930.000 Z=6254.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 35]
+ |   |   |   |- Guid:5EB4349D473E6DA5D11E87AC6C9EB48F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1165552982 Label:asteroid24 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=12371.921 Y=-53630.236 Z=-75949.332), Max=(X=38158.575 Y=-27843.582 Z=-57072.191) RuntimeBounds:IsValid=true, Min=(X=12371.921 Y=-53630.236 Z=-75949.332), Max=(X=38158.575 Y=-27843.582 Z=-57072.191) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 36]
+ |   |   |   |- Guid:61193F834AC2725D2D925EBD0136D39B BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1460311995 Label:asteroid36 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-41863.804 Y=80690.312 Z=-141.927), Max=(X=-35507.154 Y=88206.804 Z=6272.069) RuntimeBounds:IsValid=true, Min=(X=-41863.804 Y=80690.312 Z=-141.927), Max=(X=-35507.154 Y=88206.804 Z=6272.069) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 37]
+ |   |   |   |- Guid:62D2F7B046EC397557A2DABAA9AC1B44 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1165555985 Label:asteroid27 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-37984.152 Y=-3834.237 Z=10925.296), Max=(X=-37392.821 Y=-3242.905 Z=11358.181) RuntimeBounds:IsValid=true, Min=(X=-37984.152 Y=-3834.237 Z=10925.296), Max=(X=-37392.821 Y=-3242.905 Z=11358.181) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 38]
+ |   |   |   |- Guid:6F058D5840D9C52C0816099CC0C5E34C BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1143492976 Label:asteroid18 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-30431.270 Y=-38177.417 Z=6012.528), Max=(X=-19373.371 Y=-27119.518 Z=14107.472) RuntimeBounds:IsValid=true, Min=(X=-30431.270 Y=-38177.417 Z=6012.528), Max=(X=-19373.371 Y=-27119.518 Z=14107.472) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 39]
+ |   |   |   |- Guid:6F0B16D14E4EEB05F4C0BB9A3440AB34 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F66B02_2143316786 Label:asteroid4 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-19660.000 Y=-47911.960 Z=4623.040), Max=(X=-5763.040 Y=-35628.040 Z=16906.960) RuntimeBounds:IsValid=true, Min=(X=-18046.960 Y=-47911.960 Z=4623.040), Max=(X=-5763.040 Y=-35628.040 Z=16906.960) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 40]
+ |   |   |   |- Guid:713AEC1349CED5DCFEA1EE87EA7713BA BaseClass:/Game/Enemies/Fighter/FighterSpawn.FighterSpawn_C NativeClass:/Script/Engine.Actor Name:FighterSpawn_C_UAID_D85ED37C95663F4102_1806650223 Label:FighterSpawn SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2395.000 Y=-1043.689 Z=-126.263), Max=(X=5145.000 Y=2196.313 Z=3113.738) RuntimeBounds:IsValid=true, Min=(X=2395.000 Y=-1043.689 Z=-126.263), Max=(X=5145.000 Y=2196.313 Z=3113.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 41]
+ |   |   |   |- Guid:783C72964BAD47BD9A712183DD221230 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F66B02_2145593787 Label:asteroid5 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-22621.000 Y=-17236.000 Z=-7001.000), Max=(X=-18109.000 Y=-12724.000 Z=-2489.000) RuntimeBounds:IsValid=true, Min=(X=-22621.000 Y=-17236.000 Z=-7001.000), Max=(X=-18109.000 Y=-12724.000 Z=-2489.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 42]
+ |   |   |   |- Guid:7D9890D341DC5A2324C8A4AACF8D1D0A BaseClass:/Game/Ship/Ship.Ship_C NativeClass:/Script/Engine.Character Name:Ship_C_UAID_74D83E79ADE1652402_1356312288 Label:Ship SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-49664.000 Y=-568.500 Z=1316.000), Max=(X=999951135.000 Y=1451.500 Z=3336.000) RuntimeBounds:IsValid=true, Min=(X=-49357.960 Y=48.960 Z=1906.960), Max=(X=999951135.000 Y=831.040 Z=2776.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 43]
+ |   |   |   |- Guid:817E15FC4868E66BF17FE5B63F130E74 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid1.asteroid1_C NativeClass:/Script/Engine.Actor Name:asteroid1_C_UAID_581031EC1979F76B02_1460306991 Label:asteroid32 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-55580.432 Y=57420.600 Z=15016.511), Max=(X=-44415.390 Y=70622.829 Z=26282.276) RuntimeBounds:IsValid=true, Min=(X=-55580.432 Y=57420.600 Z=15016.511), Max=(X=-44415.390 Y=70622.829 Z=26282.276) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 44]
+ |   |   |   |- Guid:81F21FA74DD2A04A28EE498D7BD9A7A1 BaseClass:/Game/Enemies/Fighter/FighterSpawn.FighterSpawn_C NativeClass:/Script/Engine.Actor Name:FighterSpawn_C_UAID_D85ED37C9566444102_1109541104 Label:FighterSpawn2 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=2405.000 Y=11326.311 Z=-126.263), Max=(X=5155.000 Y=14566.313 Z=3113.738) RuntimeBounds:IsValid=true, Min=(X=2405.000 Y=11326.311 Z=-126.263), Max=(X=5155.000 Y=14566.313 Z=3113.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false
+ |   |   |- [+] [ 45]
+ |   |   |   |- Guid:891E38DA45F08C26E5659F991883A412 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1143487971 Label:asteroid13 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-96600.784 Y=-88463.327 Z=2849.280), Max=(X=-74346.264 Y=-66208.806 Z=19140.720) RuntimeBounds:IsValid=true, Min=(X=-96600.784 Y=-88463.327 Z=2849.280), Max=(X=-74346.264 Y=-66208.806 Z=19140.720) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 46]
+ |   |   |   |- Guid:910610DE498FC93B0131C28484D1C0B9 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid1.asteroid1_C NativeClass:/Script/Engine.Actor Name:asteroid1_C_UAID_581031EC1979F66B02_2123312783 Label:asteroid1 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-50910.335 Y=-26480.819 Z=829.949), Max=(X=-42985.301 Y=-18555.785 Z=8754.983) RuntimeBounds:IsValid=true, Min=(X=-50910.335 Y=-26480.819 Z=829.949), Max=(X=-42985.301 Y=-18555.785 Z=8754.983) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 47]
+ |   |   |   |- Guid:9257B35241DE41B9B93551876B26D83F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid5.asteroid5_C NativeClass:/Script/Engine.Actor Name:asteroid5_C_UAID_581031EC1979F76B02_1143488972 Label:asteroid14 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-64400.787 Y=-53941.412 Z=-12567.000), Max=(X=-56226.492 Y=-45767.116 Z=-6583.000) RuntimeBounds:IsValid=true, Min=(X=-64400.787 Y=-53941.412 Z=-12567.000), Max=(X=-56226.492 Y=-45767.116 Z=-6583.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 48]
+ |   |   |   |- Guid:94DC497F4EC7359E04A269AA9B752DE1 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460317000 Label:asteroid41 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-47754.830 Y=84199.237 Z=-5751.119), Max=(X=-40591.147 Y=92670.014 Z=1477.189) RuntimeBounds:IsValid=true, Min=(X=-47754.830 Y=84199.237 Z=-5751.119), Max=(X=-40591.147 Y=92670.014 Z=1477.189) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 49]
+ |   |   |   |- Guid:A32F6E8040DE462828D3F1956AC08171 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1460313997 Label:asteroid38 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-210.871 Y=42757.974 Z=16665.296), Max=(X=6145.779 Y=50274.466 Z=23079.292) RuntimeBounds:IsValid=true, Min=(X=-210.871 Y=42757.974 Z=16665.296), Max=(X=6145.779 Y=50274.466 Z=23079.292) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 50]
+ |   |   |   |- Guid:A38ADEB34AE2D9A12F8C49AA614F56F1 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1460330014 Label:asteroid55 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-1721.520 Y=66016.283 Z=-74275.399), Max=(X=22473.552 Y=95208.576 Z=-48261.487) RuntimeBounds:IsValid=true, Min=(X=-1721.520 Y=66016.283 Z=-74275.399), Max=(X=22473.552 Y=95208.576 Z=-48261.487) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 51]
+ |   |   |   |- Guid:A5C96EFE44F725F76FE7B9A19E608E59 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1165556986 Label:asteroid28 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=95078.379 Y=-128902.487 Z=-20940.291), Max=(X=119487.966 Y=-104492.900 Z=-3071.233) RuntimeBounds:IsValid=true, Min=(X=95078.379 Y=-128902.487 Z=-20940.291), Max=(X=119487.966 Y=-104492.900 Z=-3071.233) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 52]
+ |   |   |   |- Guid:ACB976BC41C5830A95380CBF24794A75 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460333018 Label:asteroid59 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=109833.960 Y=98595.814 Z=-27152.064), Max=(X=132736.958 Y=126229.170 Z=-2527.355) RuntimeBounds:IsValid=true, Min=(X=109833.960 Y=98595.814 Z=-27152.064), Max=(X=132736.958 Y=126229.170 Z=-2527.355) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 53]
+ |   |   |   |- Guid:AE42E4D740AED3A2E85168B742E66ED2 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1078181966 Label:asteroid8 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-24545.705 Y=-29735.705 Z=-17385.705), Max=(X=-19004.295 Y=-24194.295 Z=-11844.295) RuntimeBounds:IsValid=true, Min=(X=-24545.705 Y=-29735.705 Z=-17385.705), Max=(X=-19004.295 Y=-24194.295 Z=-11844.295) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 54]
+ |   |   |   |- Guid:B1B625CD4E8C527E919D6994A567ED3F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid8.asteroid8_C NativeClass:/Script/Engine.Actor Name:asteroid8_C_UAID_581031EC1979F76B02_1460323007 Label:asteroid48 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-46507.353 Y=8836.508 Z=4693.206), Max=(X=-37993.575 Y=19350.431 Z=14511.121) RuntimeBounds:IsValid=true, Min=(X=-46507.353 Y=8836.508 Z=4693.206), Max=(X=-37993.575 Y=19350.431 Z=14511.121) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 55]
+ |   |   |   |- Guid:B7989B654737DE5080D12CBFDD5D5F63 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid6.asteroid6_C NativeClass:/Script/Engine.Actor Name:asteroid6_C_UAID_581031EC1979F76B02_1074025964 Label:asteroid6 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-29395.850 Y=-40930.850 Z=-26465.850), Max=(X=-24024.150 Y=-35559.150 Z=-21094.150) RuntimeBounds:IsValid=true, Min=(X=-29395.850 Y=-40930.850 Z=-26465.850), Max=(X=-24024.150 Y=-35559.150 Z=-21094.150) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 56]
+ |   |   |   |- Guid:B913B07345C74ABE9B5EC382F492DE84 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1460309993 Label:asteroid34 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-48692.124 Y=91944.898 Z=3264.193), Max=(X=-42335.474 Y=99461.390 Z=9678.188) RuntimeBounds:IsValid=true, Min=(X=-48692.124 Y=91944.898 Z=3264.193), Max=(X=-42335.474 Y=99461.390 Z=9678.188) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 57]
+ |   |   |   |- Guid:BA3D5284430AB4850711E7A6F5BAA5BF BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1460319002 Label:asteroid43 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-34833.876 Y=45126.319 Z=16632.307), Max=(X=-27901.675 Y=53687.105 Z=24626.380) RuntimeBounds:IsValid=true, Min=(X=-34833.876 Y=45126.319 Z=16632.307), Max=(X=-27901.675 Y=53687.105 Z=24626.380) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 58]
+ |   |   |   |- Guid:BC41D3E141F27017D9F93CA99C3AC687 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid4.asteroid4_C NativeClass:/Script/Engine.Actor Name:asteroid4_C_UAID_581031EC1979F76B02_1460310994 Label:asteroid35 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-21378.155 Y=69429.595 Z=12581.793), Max=(X=-4072.176 Y=89893.245 Z=30043.895) RuntimeBounds:IsValid=true, Min=(X=-21378.155 Y=69429.595 Z=12581.793), Max=(X=-4072.176 Y=89893.245 Z=30043.895) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 59]
+ |   |   |   |- Guid:BF59AA6D4180BFD2B3401FB72F666B28 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1143486970 Label:asteroid12 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-49575.047 Y=-49700.348 Z=-3217.000), Max=(X=-41400.751 Y=-41526.052 Z=2767.000) RuntimeBounds:IsValid=true, Min=(X=-49575.047 Y=-49700.348 Z=-3217.000), Max=(X=-41400.751 Y=-41526.052 Z=2767.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 60]
+ |   |   |   |- Guid:C253633A4DBF97DD0217E792CFA986E7 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1143484969 Label:asteroid11 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-87022.374 Y=-65110.450 Z=-13030.760), Max=(X=-77581.062 Y=-55669.139 Z=-6119.240) RuntimeBounds:IsValid=true, Min=(X=-87022.374 Y=-65110.450 Z=-13030.760), Max=(X=-77581.062 Y=-55669.139 Z=-6119.240) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 61]
+ |   |   |   |- Guid:C45F9309430DA78A2477B493FE8C4A4A BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1460333017 Label:asteroid58 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-58862.862 Y=83988.065 Z=19718.893), Max=(X=-58308.028 Y=84657.493 Z=20315.436) RuntimeBounds:IsValid=true, Min=(X=-58862.862 Y=83988.065 Z=19718.893), Max=(X=-58308.028 Y=84657.493 Z=20315.436) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 62]
+ |   |   |   |- Guid:C46166074CC61AD5DD0C68AC8B957DF3 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid3.asteroid3_C NativeClass:/Script/Engine.Actor Name:asteroid3_C_UAID_581031EC1979F76B02_1460328011 Label:asteroid52 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=125306.547 Y=110280.872 Z=10096.022), Max=(X=145629.384 Y=134801.163 Z=31946.608) RuntimeBounds:IsValid=true, Min=(X=125306.547 Y=110280.872 Z=10096.022), Max=(X=145629.384 Y=134801.163 Z=31946.608) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 63]
+ |   |   |   |- Guid:C8006BCD47A8C088B95808BCF4C63E93 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid2.asteroid2_C NativeClass:/Script/Engine.Actor Name:asteroid2_C_UAID_581031EC1979F76B02_1460308992 Label:asteroid33 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-29221.181 Y=68021.063 Z=3760.195), Max=(X=-21879.250 Y=76702.611 Z=11168.360) RuntimeBounds:IsValid=true, Min=(X=-29221.181 Y=68021.063 Z=3760.195), Max=(X=-21879.250 Y=76702.611 Z=11168.360) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 64]
+ |   |   |   |- Guid:ECBC03CC4DBDDD15589C42818A1692E9 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1460326009 Label:asteroid50 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-38848.119 Y=35917.440 Z=4353.719), Max=(X=-31035.815 Y=45565.093 Z=13362.710) RuntimeBounds:IsValid=true, Min=(X=-38848.119 Y=35917.440 Z=4353.719), Max=(X=-31035.815 Y=45565.093 Z=13362.710) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 65]
+ |   |   |   |- Guid:EF23E6B84DEF920D5ECC0C88F06BE83A BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid9.asteroid9_C NativeClass:/Script/Engine.Actor Name:asteroid9_C_UAID_581031EC1979F76B02_1460325008 Label:asteroid49 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-32755.999 Y=69783.471 Z=16643.308), Max=(X=-23378.363 Y=81364.201 Z=27457.408) RuntimeBounds:IsValid=true, Min=(X=-32755.999 Y=69783.471 Z=16643.308), Max=(X=-23378.363 Y=81364.201 Z=27457.408) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 66]
+ |   |   |   |- Guid:F0E43530411B41A0FD0D65A911724C2F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1460323006 Label:asteroid47 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-61036.375 Y=-40775.333 Z=41927.913), Max=(X=-54104.175 Y=-32214.547 Z=49921.986) RuntimeBounds:IsValid=true, Min=(X=-61036.375 Y=-40775.333 Z=41927.913), Max=(X=-54104.175 Y=-32214.547 Z=49921.986) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 67]
+ |   |   |   |- Guid:F5814169478F77C961BB18A6C8E8B719 BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid10.asteroid10_C NativeClass:/Script/Engine.Actor Name:asteroid10_C_UAID_581031EC1979F76B02_1143493977 Label:asteroid19 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-55545.115 Y=-50127.545 Z=-17621.861), Max=(X=-46333.021 Y=-40915.451 Z=-10878.139) RuntimeBounds:IsValid=true, Min=(X=-55545.115 Y=-50127.545 Z=-17621.861), Max=(X=-46333.021 Y=-40915.451 Z=-10878.139) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |   |   |- [+] [ 68]
+ |   |   |   |- Guid:F91A5AAB46591AAA9405C5886A14099F BaseClass:/Game/Levels/asteroids-pack-metallic-version/asteroid7.asteroid7_C NativeClass:/Script/Engine.Actor Name:asteroid7_C_UAID_581031EC1979F76B02_1165553983 Label:asteroid25 SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-95320.995 Y=6079.593 Z=2363.738), Max=(X=-73661.295 Y=27739.292 Z=18219.738) RuntimeBounds:IsValid=true, Min=(X=-95320.995 Y=6079.593 Z=2363.738), Max=(X=-73661.295 Y=27739.292 Z=18219.738) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false FolderPath:Asteroids FolderGuid:794DA36041569D20254D7DB4D1E38568
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=true, Min=(X=-134881.192 Y=-140158.027 Z=-75949.332), Max=(X=999951135.000 Y=134801.163 Z=89137.793)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/base
+----------------------------------------------------------------------------------------------------------------
+base - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of base Persistent Level
+ |- Always loaded Actor Count: 5 
+ |- Actor Path: /Game/base.base:PersistentLevel.PlayerStart_UAID_581031EC1979F76B02_1783214023
+ |- Actor Package: /Game/__ExternalActors__/base/B/JL/4OIYIWF10WC5WOGB2C8WEE
+ |- Actor Path: /Game/base.base:PersistentLevel.SkyAtmosphere_UAID_A85E45CFE40401D200_1470382762
+ |- Actor Package: /Game/__ExternalActors__/base/E/DJ/EVNZXB5S3EPU7AC59FASFL
+ |- Actor Path: /Game/base.base:PersistentLevel.SkyLight_UAID_A85E45CFE40401D200_1470380759
+ |- Actor Package: /Game/__ExternalActors__/base/B/N1/Y34CLOUKSQ6OQLKGEG492S
+ |- Actor Path: /Game/base.base:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/base/2/S0/YYE3DE8GXSLBIKACSNCA93
+ |- Actor Path: /Game/base.base:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/base/3/NN/U6DQQTNKY6YRRIHKZAINAZ
+
+----------------------------------------------------------------------------------------------------------------
+base - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell base_MainGrid_L0_X-6_Y-4_Z-1 (01XL9KK0FU33KFDSAFM1AYYTW)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-134881.192 Y=-87075.770 Z=-8827.000), Max=(X=-126706.896 Y=-78901.474 Z=-2843.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-151200.000 Y=-100800.000 Z=-25200.000), Max=(X=-126000.000 Y=-75600.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid7_C_UAID_581031EC1979F76B02_1143489974
+ |   |-         Package: /Game/__ExternalActors__/base/D/OW/Z145MRGZD663H1MB8JXEZO
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0F14813C476E9B3FDBF53EBBA6193B08
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-3_Y3_Z0 (07YYNZ9F7EN8RXYFFMXOT77DI)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-58862.862 Y=83988.065 Z=19718.893), Max=(X=-58308.028 Y=84657.493 Z=20315.436)
+ |- Cell Bounds: IsValid=true, Min=(X=-75600.000 Y=75600.000 Z=0.000), Max=(X=-50400.000 Y=100800.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid9_C_UAID_581031EC1979F76B02_1460333017
+ |   |-         Package: /Game/__ExternalActors__/base/D/4F/UPB27DJUUF1C79YNUXWQ95
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C45F9309430DA78A2477B493FE8C4A4A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y0_Z0 (0B8W3RQVGDZUGYD3TMU0ZD7R6)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-21301.837 Y=11578.163 Z=7008.163), Max=(X=-15198.163 Y=17681.837 Z=13111.837)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid9_C_UAID_581031EC1979F76B02_1080597967
+ |   |-         Package: /Game/__ExternalActors__/base/B/3N/EQXUG9TU6BSGKJ0XGS8BKC
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 250E36004681D169DBAD94A220532FA5
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y-1_Z-1 (0ICN7PGSO7MX0203E0WBYMMBU)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-22621.000 Y=-17236.000 Z=-10812.419), Max=(X=-17117.581 Y=-4682.581 Z=-2489.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=-25200.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1083156968
+ |   |-         Package: /Game/__ExternalActors__/base/9/IA/YSUBPX4QZGICJO3LBR2FMP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 2047312642BF6A16255EFC9F2DC8883B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F66B02_2145593787
+ |   |-         Package: /Game/__ExternalActors__/base/5/8J/TXD1T6J2AFFV5HDAQE53SP
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 783C72964BAD47BD9A712183DD221230
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y-3_Z-1 (1TMNQLR5DPUHOKR0FM3QMHEH1)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-27556.000 Y=-75600.000 Z=-4181.000), Max=(X=-25200.000 Y=-71239.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=-75600.000 Z=-25200.000), Max=(X=-25200.000 Y=-50400.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid7_C_UAID_581031EC1979F76B02_1076166965
+ |   |-         Package: /Game/__ExternalActors__/base/0/KZ/CLMA0ZCMTGBIU15E2WXMPX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4268099041C99D950274FAA407DE4F60
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y-2_Z-1 (1U88RFXKFFA80R6ZCFL48TJGB)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-24545.705 Y=-35915.680 Z=-17385.705), Max=(X=-19004.295 Y=-25200.000 Z=-2139.320)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-50400.000 Z=-25200.000), Max=(X=0.000 Y=-25200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid2_C_UAID_581031EC1979F66B02_2137884784
+ |   |-         Package: /Game/__ExternalActors__/base/7/79/2N9BOENQMJ3MCH5UETBBR5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 47D499024EBB3E1A345C7C9F8503C72B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1078181966
+ |   |-         Package: /Game/__ExternalActors__/base/1/Y9/V31II10R4HQ8KJJCJMVLP2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: AE42E4D740AED3A2E85168B742E66ED2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-3_Y4_Z0 (24L4XANHEVZLIWXM5T8YDK901)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-64308.085 Y=103835.733 Z=5575.122), Max=(X=-55709.033 Y=114003.779 Z=14251.749)
+ |- Cell Bounds: IsValid=true, Min=(X=-75600.000 Y=100800.000 Z=0.000), Max=(X=-50400.000 Y=126000.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid9_C_UAID_581031EC1979F76B02_1460315999
+ |   |-         Package: /Game/__ExternalActors__/base/D/5D/JTGBE1D4M7HO8VNSLPXEV3
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1C5D88A6490650B226E492B71B24AD26
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y-1_Z0 (29UVDS8BQRVJ2TLAL4FSQH37O)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-50400.000 Y=-25200.000 Z=829.949), Max=(X=-37392.821 Y=-3242.905 Z=11358.181)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=-25200.000 Z=0.000), Max=(X=-25200.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid9_C_UAID_581031EC1979F76B02_1165555985
+ |   |-         Package: /Game/__ExternalActors__/base/0/AE/5WW4D34G4D7XIFFS3RHJDQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 62D2F7B046EC397557A2DABAA9AC1B44
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid1_C_UAID_581031EC1979F66B02_2123312783
+ |   |-         Package: /Game/__ExternalActors__/base/B/5M/3UBN6DR886E90JUBAY9L1X
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 910610DE498FC93B0131C28484D1C0B9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-3_Y-3_Z-1 (2PGWOSQQ23ULP8TCEZ4Z3QDCB)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-75600.000 Y=-61201.923 Z=-25200.000), Max=(X=-69994.486 Y=-51162.667 Z=-18990.377)
+ |- Cell Bounds: IsValid=true, Min=(X=-75600.000 Y=-75600.000 Z=-25200.000), Max=(X=-50400.000 Y=-50400.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1143491975
+ |   |-         Package: /Game/__ExternalActors__/base/D/SI/A3QYXSUXJ5GCND294USA4K
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 207D9A1441634D0EA30AD99C2D3FE1CA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L16_X0_Y0_Z0 (2ZL2UOPFTOFCPY8P557A7CSN4)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=48.960 Z=1906.960), Max=(X=999951135.000 Y=831.040 Z=2776.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=1651507200.000 Y=1651507200.000 Z=1651507200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.Ship_C_UAID_74D83E79ADE1652402_1356312288
+ |   |-         Package: /Game/__ExternalActors__/base/7/KM/VNSKCK4W44SNW1Y3BAMUVQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7D9890D341DC5A2324C8A4AACF8D1D0A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y1_Z0 (33I8EZYL8HID7X217M8CIZ5BN)
+ |- Actor Count: 3
+ |- Content Bounds: IsValid=true, Min=(X=-41114.835 Y=28694.477 Z=4353.719), Max=(X=-27901.675 Y=50400.000 Z=24626.380)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=25200.000 Z=0.000), Max=(X=-25200.000 Y=50400.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1460321004
+ |   |-         Package: /Game/__ExternalActors__/base/2/BR/WA0JZCCRS305DMW1X1HVF5
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4A9EDEC04636FA8509D4C3977A90F1FE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid3_C_UAID_581031EC1979F76B02_1460319002
+ |   |-         Package: /Game/__ExternalActors__/base/C/JU/9KXLL4HEJA1NEGPD5OE80X
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BA3D5284430AB4850711E7A6F5BAA5BF
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1460326009
+ |   |-         Package: /Game/__ExternalActors__/base/7/6H/9DJV9JTYBUUED67WL620G2
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: ECBC03CC4DBDDD15589C42818A1692E9
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X0_Y1_Z0 (37UFG2W8ILQ4056BKIRX3U8DC)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=42757.974 Z=16665.296), Max=(X=6145.779 Y=50274.466 Z=23079.292)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=25200.000 Z=0.000), Max=(X=25200.000 Y=50400.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid7_C_UAID_581031EC1979F76B02_1460313997
+ |   |-         Package: /Game/__ExternalActors__/base/A/Y6/ACNWYNOV0LF5KIYDGPPDC6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A32F6E8040DE462828D3F1956AC08171
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y-2_Z0 (3AL4DN51VSKCN6TNJ0U51HHYV)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-25200.000 Y=-47911.960 Z=4623.040), Max=(X=-5763.040 Y=-27119.518 Z=16906.960)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-50400.000 Z=0.000), Max=(X=0.000 Y=-25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid9_C_UAID_581031EC1979F76B02_1143492976
+ |   |-         Package: /Game/__ExternalActors__/base/2/4S/Y2KXYB07NXS2TD86T1I41I
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6F058D5840D9C52C0816099CC0C5E34C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid4_C_UAID_581031EC1979F66B02_2143316786
+ |   |-         Package: /Game/__ExternalActors__/base/1/4J/396T040S8867F9TKM86BER
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 6F0B16D14E4EEB05F4C0BB9A3440AB34
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X0_Y-1_Z-1 (3ES4F7NN8D8AQPE1GZVX1WE8V)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=9496.991 Y=-25200.000 Z=-10812.419), Max=(X=22415.280 Y=-14741.991 Z=-2489.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-25200.000 Z=-25200.000), Max=(X=25200.000 Y=0.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1212636988
+ |   |-         Package: /Game/__ExternalActors__/base/E/B7/N3D2RHVLU5OC2JGO9ONQPS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0562697F4239FFAB14587F91CE2BA8C6
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1212639990
+ |   |-         Package: /Game/__ExternalActors__/base/B/1J/1M347Y93QF3ZCSMRA2GLCY
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 39F28A0B468522CEC7C708902A1611D4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-5_Y2_Z1 (3OQ2I9O1HDZBWNA05YJTZ389N)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-114495.120 Y=50432.261 Z=25200.000), Max=(X=-100800.000 Y=74952.552 Z=37910.718)
+ |- Cell Bounds: IsValid=true, Min=(X=-126000.000 Y=50400.000 Z=25200.000), Max=(X=-100800.000 Y=75600.000 Z=50400.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid7_C_UAID_581031EC1979F76B02_1460331015
+ |   |-         Package: /Game/__ExternalActors__/base/2/JT/JB5HKXNS4IAU6YDA04O9CQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4AC0FA06496687F665C0B5BE9A8A80EA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-4_Y-3_Z-1 (3R919SVE3KQKCC5W2VGSLKBTJ)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-87022.374 Y=-65110.450 Z=-13030.760), Max=(X=-77581.062 Y=-55669.139 Z=-6119.240)
+ |- Cell Bounds: IsValid=true, Min=(X=-100800.000 Y=-75600.000 Z=-25200.000), Max=(X=-75600.000 Y=-50400.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid2_C_UAID_581031EC1979F76B02_1143484969
+ |   |-         Package: /Game/__ExternalActors__/base/2/DU/WDQWVRKSEF3CEPR647JC50
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C253633A4DBF97DD0217E792CFA986E7
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L1_X0_Y1_Z-2 (3YT365H2J1TYXPSIO7VTI8CZ9)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=66016.283 Z=-74275.399), Max=(X=22473.552 Y=95208.576 Z=-50400.000)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=50400.000 Z=-100800.000), Max=(X=50400.000 Y=100800.000 Z=-50400.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid6_C_UAID_581031EC1979F76B02_1460330014
+ |   |-         Package: /Game/__ExternalActors__/base/5/6Z/UCKDWRZR3N8JZ6LVLFKHER
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A38ADEB34AE2D9A12F8C49AA614F56F1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y3_Z0 (44ENDJMQCSHPHJ9HWYWKUDY3G)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-48692.124 Y=80690.312 Z=0.000), Max=(X=-35507.154 Y=99461.390 Z=9678.188)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=75600.000 Z=0.000), Max=(X=-25200.000 Y=100800.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1460311995
+ |   |-         Package: /Game/__ExternalActors__/base/3/K4/4UBXNKLRB22V8F0N8YMA0E
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 61193F834AC2725D2D925EBD0136D39B
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid3_C_UAID_581031EC1979F76B02_1460309993
+ |   |-         Package: /Game/__ExternalActors__/base/1/BQ/88S23V7IR8JQN0I8GT7SOI
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B913B07345C74ABE9B5EC382F492DE84
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X1_Y-2_Z-1 (4S3AUGYGJ2AVSP1ZI0Z18FSZL)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=25222.988 Y=-33701.497 Z=-17385.705), Max=(X=32792.694 Y=-26131.791 Z=-11844.295)
+ |- Cell Bounds: IsValid=true, Min=(X=25200.000 Y=-50400.000 Z=-25200.000), Max=(X=50400.000 Y=-25200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1212637989
+ |   |-         Package: /Game/__ExternalActors__/base/D/61/H7XN7N8J300P32CF71RVSH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 47F979744E60FEC2A5F5C098367DC1FB
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X3_Y4_Z-1 (4Z5FRB5Y4RQ6IKNW0XA0CRHFB)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=84667.712 Y=100800.000 Z=-11732.877), Max=(X=100800.000 Y=122338.317 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=75600.000 Y=100800.000 Z=-25200.000), Max=(X=100800.000 Y=126000.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1460329013
+ |   |-         Package: /Game/__ExternalActors__/base/A/RK/334J3XAO4YOLKQ1Y1RC03Q
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0375FAB34E3B33A0835A5EA1B5DECDC6
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X0_Y0_Z0 (5KET2J5MQLLR1ZESCC0Y8QTVY)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=2395.000 Y=0.000 Z=0.000), Max=(X=5155.000 Y=14566.313 Z=3113.738)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=25200.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.FighterSpawn_C_UAID_D85ED37C95663F4102_1806650223
+ |   |-         Package: /Game/__ExternalActors__/base/6/CI/PC7A6X8N32EHCNB62I9850
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 713AEC1349CED5DCFEA1EE87EA7713BA
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.FighterSpawn_C_UAID_D85ED37C9566444102_1109541104
+ |   |-         Package: /Game/__ExternalActors__/base/A/NS/49XDOBARBEE7YKQRT1G92P
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 81F21FA74DD2A04A28EE498D7BD9A7A1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X0_Y4_Z-1 (618448RR4UEZMTLF26ILLFOJO)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=941.657 Y=103306.885 Z=-19679.952), Max=(X=8044.153 Y=111876.322 Z=-12043.534)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=100800.000 Z=-25200.000), Max=(X=25200.000 Y=126000.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1460335020
+ |   |-         Package: /Game/__ExternalActors__/base/D/85/9SMB9LH1FAJLA21E6JU995
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0E5A42E34F67E2B111C679B10A2C31E6
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-3_Y-1_Z0 (6TIN9HXT108QSCV9CBKKSVBKS)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-55420.326 Y=-7935.993 Z=0.000), Max=(X=-50400.000 Y=0.000 Z=7588.988)
+ |- Cell Bounds: IsValid=true, Min=(X=-75600.000 Y=-25200.000 Z=0.000), Max=(X=-50400.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid6_C_UAID_581031EC1979F76B02_1460322005
+ |   |-         Package: /Game/__ExternalActors__/base/2/RE/XABJOBVFLZUGONHGYP8VTU
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3DE8FF624EA6FE02BF51A1A7CBD3F333
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L1_X0_Y-1_Z-2 (6VRUNR5IFKUNF1TEKIYP88XG0)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=12371.921 Y=-50400.000 Z=-75949.332), Max=(X=38158.575 Y=-27843.582 Z=-57072.191)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=-50400.000 Z=-100800.000), Max=(X=50400.000 Y=0.000 Z=-50400.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid6_C_UAID_581031EC1979F76B02_1165552982
+ |   |-         Package: /Game/__ExternalActors__/base/B/BA/CJ95NT88N75XQMB6WDD7K9
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5EB4349D473E6DA5D11E87AC6C9EB48F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X5_Y4_Z0 (705XA2ILC6OG971SWGU19CGQ8)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=126000.000 Y=110280.872 Z=10096.022), Max=(X=145629.384 Y=126000.000 Z=25200.000)
+ |- Cell Bounds: IsValid=true, Min=(X=126000.000 Y=100800.000 Z=0.000), Max=(X=151200.000 Y=126000.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid3_C_UAID_581031EC1979F76B02_1460328011
+ |   |-         Package: /Game/__ExternalActors__/base/5/BJ/ZQGVCJDBQNXLBCMDYS41AA
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C46166074CC61AD5DD0C68AC8B957DF3
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y2_Z0 (71EMKDVFUQ5908GQKVTHPTQSR)
+ |- Actor Count: 3
+ |- Content Bounds: IsValid=true, Min=(X=-50400.000 Y=57420.600 Z=3760.195), Max=(X=-25200.000 Y=75600.000 Z=25200.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=50400.000 Z=0.000), Max=(X=-25200.000 Y=75600.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid1_C_UAID_581031EC1979F76B02_1460306991
+ |   |-         Package: /Game/__ExternalActors__/base/F/1X/NTCJEVA9QLLFKW99FOFK9T
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 817E15FC4868E66BF17FE5B63F130E74
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid2_C_UAID_581031EC1979F76B02_1460308992
+ |   |-         Package: /Game/__ExternalActors__/base/5/PP/0GC2Q1SW6LSF53FUIAH2OX
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C8006BCD47A8C088B95808BCF4C63E93
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid9_C_UAID_581031EC1979F76B02_1460325008
+ |   |-         Package: /Game/__ExternalActors__/base/C/3V/F6NIIRM9J4ZJGVR0T2XY9L
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: EF23E6B84DEF920D5ECC0C88F06BE83A
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-4_Y-4_Z0 (7BEELNE0SGBQ7BEGBM3S821S2)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-96600.784 Y=-88463.327 Z=2849.280), Max=(X=-75600.000 Y=-75600.000 Z=19140.720)
+ |- Cell Bounds: IsValid=true, Min=(X=-100800.000 Y=-100800.000 Z=0.000), Max=(X=-75600.000 Y=-75600.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid4_C_UAID_581031EC1979F76B02_1143487971
+ |   |-         Package: /Game/__ExternalActors__/base/2/7E/4U7M7JJD2857OTIK0YITHC
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 891E38DA45F08C26E5659F991883A412
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y2_Z-1 (7CV9PJS25CGLILDMA5ZFS4CWI)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-25200.000 Y=54843.862 Z=-11862.894), Max=(X=-21158.032 Y=63792.518 Z=-4226.800)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=50400.000 Z=-25200.000), Max=(X=0.000 Y=75600.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid6_C_UAID_581031EC1979F76B02_1460312996
+ |   |-         Package: /Game/__ExternalActors__/base/4/9C/2T4OG8REQIBJTB7BK3JMX6
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1A8D58714EE2DAB7C543EDA630212DEE
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y-1_Z0 (7K0IDFPW2WIOW9IP31ETHGIUL)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-19801.000 Y=-5956.000 Z=49.000), Max=(X=-15289.000 Y=-1444.000 Z=4561.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid3_C_UAID_581031EC1979F66B02_2140852785
+ |   |-         Package: /Game/__ExternalActors__/base/E/PX/MHCHCBR0MFWO274M13UHXD
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4DCB59A143A01042588248993846EA4E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-3_Y-2_Z1 (817ZRCOTVA6OYVLAH8FO0EOR2)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-61036.375 Y=-40775.333 Z=41927.913), Max=(X=-54104.175 Y=-32214.547 Z=49921.986)
+ |- Cell Bounds: IsValid=true, Min=(X=-75600.000 Y=-50400.000 Z=25200.000), Max=(X=-50400.000 Y=-25200.000 Z=50400.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid7_C_UAID_581031EC1979F76B02_1460323006
+ |   |-         Package: /Game/__ExternalActors__/base/D/LA/P8WAF2KJPAYHMGXX44FLGW
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F0E43530411B41A0FD0D65A911724C2F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-3_Y-2_Z-1 (83GQMEL8TVHW5Y3WT5JN2906U)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-64400.787 Y=-50400.000 Z=-17621.861), Max=(X=-50400.000 Y=-40915.451 Z=-6583.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-75600.000 Y=-50400.000 Z=-25200.000), Max=(X=-50400.000 Y=-25200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1143488972
+ |   |-         Package: /Game/__ExternalActors__/base/1/RY/B05ALILHJGSM6ONAGHMBIW
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 9257B35241DE41B9B93551876B26D83F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1143493977
+ |   |-         Package: /Game/__ExternalActors__/base/0/JM/CFIOMOE1UQZ08RNZEE4N39
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F5814169478F77C961BB18A6C8E8B719
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-4_Y-3_Z-2 (87N33RD3Z9J76WX29IY0QLSAE)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-96108.251 Y=-62860.055 Z=-38382.084), Max=(X=-86376.457 Y=-53128.260 Z=-31257.916)
+ |- Cell Bounds: IsValid=true, Min=(X=-100800.000 Y=-75600.000 Z=-50400.000), Max=(X=-75600.000 Y=-50400.000 Z=-25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid6_C_UAID_581031EC1979F76B02_1143489973
+ |   |-         Package: /Game/__ExternalActors__/base/A/99/MY4LDZLA5POOFPE78A0P3A
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 34238EE84702DD18B01CC6A0104D3452
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y3_Z-1 (8B6EP1LB71UVKBJXZ95HAXVST)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-47754.830 Y=84199.237 Z=-5751.119), Max=(X=-40591.147 Y=92670.014 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=75600.000 Z=-25200.000), Max=(X=-25200.000 Y=100800.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1460317000
+ |   |-         Package: /Game/__ExternalActors__/base/7/NS/42EYZLQM2WOTWMOECF2MRJ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 94DC497F4EC7359E04A269AA9B752DE1
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y0_Z0 (8BHUN14PGY5MWKAPP6JQ78LJS)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-47715.060 Y=5839.279 Z=4693.206), Max=(X=-37993.575 Y=19350.431 Z=25200.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=0.000 Z=0.000), Max=(X=-25200.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid2_C_UAID_581031EC1979F76B02_1460318001
+ |   |-         Package: /Game/__ExternalActors__/base/C/KW/YK7T89MFTBXQMNXUUIF8VS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 01D9F5BC4BDBF6BB50EDE9BAEA8C6433
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1460323007
+ |   |-         Package: /Game/__ExternalActors__/base/2/ZJ/O066VSKGSCI4MDKZDLDDFH
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B1B625CD4E8C527E919D6994A567ED3F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L1_X0_Y1_Z0 (8K9QFQT7IJEKEV08K21T2SYI6)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=20867.681 Y=79590.501 Z=0.000), Max=(X=44340.557 Y=100800.000 Z=17753.744)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=50400.000 Z=0.000), Max=(X=50400.000 Y=100800.000 Z=50400.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid2_C_UAID_581031EC1979F76B02_1460327010
+ |   |-         Package: /Game/__ExternalActors__/base/3/SW/98KUJHOEYKNESAB7KS8QJL
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3589E2414E82006CE6DB93AF785C0E82
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y4_Z-1 (8XB5YJSGD5IVY30GMKJGP6WBN)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-18038.651 Y=101353.311 Z=-11773.616), Max=(X=-4360.015 Y=111849.259 Z=-2529.251)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=100800.000 Z=-25200.000), Max=(X=0.000 Y=126000.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1460335019
+ |   |-         Package: /Game/__ExternalActors__/base/6/I5/M2T8FVR7HW3FN4Z8OF2NHS
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 3C7ED47145208E16E2139E91293F669C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1460336021
+ |   |-         Package: /Game/__ExternalActors__/base/7/VB/2JS8SFDO6BPPJQ180Q34JB
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 55D2C3064D2F6E1158EAE993A30E879F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L1_X2_Y2_Z-1 (9045C13ZQDSQWAJEMXOI7KSGK)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=109833.960 Y=100800.000 Z=-27152.064), Max=(X=132736.958 Y=126229.170 Z=-2527.355)
+ |- Cell Bounds: IsValid=true, Min=(X=100800.000 Y=100800.000 Z=-50400.000), Max=(X=151200.000 Y=151200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1460333018
+ |   |-         Package: /Game/__ExternalActors__/base/C/0P/Q50ODEEKWQBUWMV3DXEEZG
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: ACB976BC41C5830A95380CBF24794A75
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y2_Z-1 (98HUZGX7Q108PDTGDX3IBYIQY)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-34314.225 Y=68202.936 Z=-7144.085), Max=(X=-26507.309 Y=75600.000 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=50400.000 Z=-25200.000), Max=(X=-25200.000 Y=75600.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1460314998
+ |   |-         Package: /Game/__ExternalActors__/base/8/CJ/DTEDFNK7J77WKB63ADTG2C
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 09E874544B6169B5A3B4C698E2351632
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L1_X1_Y-2_Z-1 (9E5GYSJUVG5FUXAI00FF7576X)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=50400.000 Y=-88876.628 Z=-44040.029), Max=(X=64223.915 Y=-62275.284 Z=-24566.494)
+ |- Cell Bounds: IsValid=true, Min=(X=50400.000 Y=-100800.000 Z=-50400.000), Max=(X=100800.000 Y=-50400.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1165554984
+ |   |-         Package: /Game/__ExternalActors__/base/4/P7/ZF61DN36YMWPEXDCHMPQ8W
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 1BDD9401406713C0E39C22B35DD4F795
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X4_Y-5_Z-1 (AK6V8LVMHYPPSYWE0O8X9ACTL)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=100800.000 Y=-126000.000 Z=-20940.291), Max=(X=119487.966 Y=-104492.900 Z=-3071.233)
+ |- Cell Bounds: IsValid=true, Min=(X=100800.000 Y=-126000.000 Z=-25200.000), Max=(X=126000.000 Y=-100800.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid10_C_UAID_581031EC1979F76B02_1165556986
+ |   |-         Package: /Game/__ExternalActors__/base/0/SX/Y6CT2D8G1R56LL70PISTY0
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: A5C96EFE44F725F76FE7B9A19E608E59
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L1_X1_Y1_Z-1 (ARZESZZUSJ3Z7Q6E40VGXHLCH)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=50400.000 Y=73996.988 Z=-43484.409), Max=(X=66036.655 Y=100800.000 Z=-16648.628)
+ |- Cell Bounds: IsValid=true, Min=(X=50400.000 Y=50400.000 Z=-50400.000), Max=(X=100800.000 Y=100800.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid8_C_UAID_581031EC1979F76B02_1460332016
+ |   |-         Package: /Game/__ExternalActors__/base/1/4Y/YY7MW4JYY35X7LMZKE7954
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 384D230D4BCD6B9EDD67CAB06A97B005
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X1_Y-3_Z0 (AVC6Z21D2L9E6QXISD4QNB4D3)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=25200.000 Y=-75600.000 Z=0.000), Max=(X=44121.518 Y=-51918.729 Z=9538.578)
+ |- Cell Bounds: IsValid=true, Min=(X=25200.000 Y=-75600.000 Z=0.000), Max=(X=50400.000 Y=-50400.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid2_C_UAID_581031EC1979F76B02_1165548978
+ |   |-         Package: /Game/__ExternalActors__/base/8/D7/7YFKZB7WNQFKRF8CF4RI4N
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 5092AA164DDEDC08069BBF86A1BF976C
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X3_Y-5_Z0 (AWH6ZBVEM6XMJT4650YO5U3WN)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=75600.000 Y=-111755.714 Z=0.000), Max=(X=95750.416 Y=-100800.000 Z=8309.738)
+ |- Cell Bounds: IsValid=true, Min=(X=75600.000 Y=-126000.000 Z=0.000), Max=(X=100800.000 Y=-100800.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid5_C_UAID_581031EC1979F76B02_1165552981
+ |   |-         Package: /Game/__ExternalActors__/base/B/LH/17ZSL9QLJNEMEWSG3AVF5T
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 336735304E4A308B1AC023A9A7D6FF06
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X4_Y-6_Z0 (D7MWWRKLL0W7HTH8EBA62EWX7)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=103464.962 Y=-140158.027 Z=17228.738), Max=(X=125124.661 Y=-126000.000 Z=25200.000)
+ |- Cell Bounds: IsValid=true, Min=(X=100800.000 Y=-151200.000 Z=0.000), Max=(X=126000.000 Y=-126000.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid3_C_UAID_581031EC1979F76B02_1165550979
+ |   |-         Package: /Game/__ExternalActors__/base/9/EG/RM8DID4XLBL4IEMZVHJZG8
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4F7D9F50425670CA884BC4B037E457F2
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y0_Z1 (E40XPBGNNFNXP7VECNI47OW3P)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-42205.372 Y=0.000 Z=37741.257), Max=(X=-25200.000 Y=16952.710 Z=50400.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=0.000 Z=25200.000), Max=(X=-25200.000 Y=25200.000 Z=50400.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid4_C_UAID_581031EC1979F76B02_1460320003
+ |   |-         Package: /Game/__ExternalActors__/base/5/P5/XNWMAZN6PY5TMSEN6GFYZF
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 0C1ADE1C4640489FD52BB1AD1A7A824E
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-1_Y3_Z0 (E8L7CODXN8M5ZW80FQBP79F71)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-21378.155 Y=75600.000 Z=12581.793), Max=(X=-4072.176 Y=89893.245 Z=25200.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=75600.000 Z=0.000), Max=(X=0.000 Y=100800.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid4_C_UAID_581031EC1979F76B02_1460310994
+ |   |-         Package: /Game/__ExternalActors__/base/A/6W/LAHHOE9BAQSV8BXH2V1YK4
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BC41D3E141F27017D9F93CA99C3AC687
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-2_Y-2_Z-1 (E8QW5CAKE2537OVLOQRBF7KKU)
+ |- Actor Count: 2
+ |- Content Bounds: IsValid=true, Min=(X=-49575.047 Y=-49700.348 Z=-25200.000), Max=(X=-25200.000 Y=-35559.150 Z=0.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-50400.000 Y=-50400.000 Z=-25200.000), Max=(X=-25200.000 Y=-25200.000 Z=0.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid6_C_UAID_581031EC1979F76B02_1074025964
+ |   |-         Package: /Game/__ExternalActors__/base/2/F8/I21LCU7R19JIWHYMOLAYJT
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: B7989B654737DE5080D12CBFDD5D5F63
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |- [+] /Game/base.base:PersistentLevel.asteroid3_C_UAID_581031EC1979F76B02_1143486970
+ |   |-         Package: /Game/__ExternalActors__/base/4/RM/TA82NM3HAZMVAYO5KDHNEQ
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: BF59AA6D4180BFD2B3401FB72F666B28
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L2_X0_Y0_Z0 (ECJDTGQ2LSM34U78ZPG0ZN81R)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=29649.574), Max=(X=35424.214 Y=48065.289 Z=89137.793)
+ |- Cell Bounds: IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=100800.000 Y=100800.000 Z=100800.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid4_C_UAID_581031EC1979F76B02_1460328012
+ |   |-         Package: /Game/__ExternalActors__/base/C/6H/GQCH6DU5WX7DS6L7NPX0AD
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 4642539640CE285034952B9A677BCFE4
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell base_MainGrid_L0_X-4_Y0_Z0 (EM7LTQNHHXDCHG6ULMCAQS8YC)
+ |- Actor Count: 1
+ |- Content Bounds: IsValid=true, Min=(X=-95320.995 Y=6079.593 Z=2363.738), Max=(X=-75600.000 Y=25200.000 Z=18219.738)
+ |- Cell Bounds: IsValid=true, Min=(X=-100800.000 Y=0.000 Z=0.000), Max=(X=-75600.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/base.base:PersistentLevel.asteroid7_C_UAID_581031EC1979F76B02_1165553983
+ |   |-         Package: /Game/__ExternalActors__/base/A/QR/X7GLP6AY0M57XGQY44NR8P
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: F91A5AAB46591AAA9405C5886A14099F
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
