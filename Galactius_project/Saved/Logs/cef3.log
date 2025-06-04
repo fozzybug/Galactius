@@ -1,7 +1,2 @@
-[1122/123552.224:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[1122/133744.800:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
-[1122/133744.901:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[1122/133745.108:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 165 ms
-[1122/133751.506:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 2 time(s)
-[1122/133751.567:ERROR:network_service_instance_impl.cc(330)] Network service crashed, restarting service.
-[1122/133751.749:WARNING:gpu_process_host.cc(1016)] Reinitialized the GPU process after a crash. The reported initialization time was 155 ms
+[0603/121451.769:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0603/121649.896:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

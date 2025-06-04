@@ -1,2 +1,3 @@
-2024/11/22-12:33:52.152 3e94 Creating DB E:/liamk/Documents/Galctius/Galactius/Galactius_project/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/11/22-12:33:52.163 3e94 Reusing MANIFEST E:/liamk/Documents/Galctius/Galactius/Galactius_project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/03-12:14:49.758 3444 Reusing MANIFEST C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/06/03-12:14:49.758 3444 Recovering log #3
+2025/06/03-12:14:49.759 3444 Reusing old log C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Saved/webcache_4430\Local Storage\leveldb/000003.log 
