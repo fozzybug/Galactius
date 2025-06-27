@@ -20,6 +20,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "D542BF0BCF52B70D8B587D389ED6FA58D0A31581",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/Materials/M_HeatHaze"
+			]
+		},
+		{
 			"ShaderMapHash": "866FC60F23A424D247D2520A31041857D93457C1",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_ClearCoat"
@@ -69,6 +75,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "BAF3E11F5DAC21F6CF8BA3C070FE9DEFF972A0AC",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/Materials/M_Thrusters"
+			]
+		},
+		{
 			"ShaderMapHash": "3C198821700AEE8ACBAEADF88FB2232C20505D38",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -102,6 +114,12 @@
 			"ShaderMapHash": "E956E62B74EB21FF4689B137BBDE2F3DEC049BB5",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "BABB482C69AA49B47C9BA002767225DBA744E1C9",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/Materials/M_Particulate"
 			]
 		},
 		{
@@ -160,12 +178,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F0B7C5397AE504A01743646B9A5FB0CECFE8FD8D",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "59E9ED3B8D8F9C975AEBA10530F065C0E321723E",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
@@ -178,9 +190,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CB34F03D27B318E148936178FF672582393E8418",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoatBlack"
+			]
+		},
+		{
+			"ShaderMapHash": "17175C3F6A8A5FCEF9C6653CA7D7B1083260D870",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
 			"ShaderMapHash": "B8BE25432FB7F3F68A708FA8C99B947FD51B71FC",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "252D5E43B60C7A931B46C6FC43720C19B5D4A528",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/FX/NS_RocketExhaust_Realistic"
 			]
 		},
 		{
@@ -193,6 +223,12 @@
 			"ShaderMapHash": "9F4A5F481F65E6B0E4422C476C9C4DBA66DA8F24",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "4A48FB4B3230B75D60DEF81C707A5BEFD976735B",
+			"Assets": [
+				"/Game/Shop/Powerups/Materials/Shield_down"
 			]
 		},
 		{
@@ -250,9 +286,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "8F8E235D5333F3C8688DC3DEBD50C4253038E7E0",
+			"ShaderMapHash": "05FB875C30C2B9F2123623D5B647007AAEFB6766",
 			"Assets": [
-				"/Engine/EngineDebugMaterials/HeatmapMaterial"
+				"/Engine/VREditor/LaserPointer/M_LaserPointer-Core"
 			]
 		},
 		{
@@ -268,6 +304,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "1E179C6053D74664ECD523638D9B1CC9570D968A",
+			"Assets": [
+				"/Game/Shop/Powerups/Materials/Shield_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "417C396234CA6962E1AC9171B6E4D4ED9C473A80",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
@@ -278,6 +320,12 @@
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
 				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2B01B4648E416EF19F6577C47F4E7E25CCE5D5B6",
+			"Assets": [
+				"/Engine/VREditor/UI/KeyDiskMaterial"
 			]
 		},
 		{
@@ -359,6 +407,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DF66D37C8F86797B8B14CF61949F8A3AF05CC28F",
+			"Assets": [
+				"/Niagara/DefaultAssets/DefaultSpriteMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "EC87827D28FE7BB345A127281776FC9C7F3EB02E",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_Transmission"
@@ -374,6 +428,12 @@
 			"ShaderMapHash": "1593E37EEC4AEFA8515326754FABCFF37178227F",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "D451A87FBAEE252993106F98F6294BECEF4199F9",
+			"Assets": [
+				"/Engine/TemplateResources/M_Template_Master"
 			]
 		},
 		{
@@ -449,6 +509,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6D521D9CE62DB2DED44C27B32E159800166D23CD",
+			"Assets": [
+				"/Game/Levels/asteroids-pack-metallic-version/source/Material__3"
+			]
+		},
+		{
 			"ShaderMapHash": "EA78489DCFEBC02CA525D50C29D60371289679DF",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
@@ -461,6 +527,18 @@
 			]
 		},
 		{
+			"ShaderMapHash": "F2AE56A295B85EDFA54726D49F48C1FC2522D5E2",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Metal_Brushed_Nickel"
+			]
+		},
+		{
+			"ShaderMapHash": "5AC35DA5B348FF6FE762A69E7873619D45E853A9",
+			"Assets": [
+				"/Engine/VREditor/LaserPointer/LaserPointerMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "CC96B4A552A0A613C9A1B565F86C3348C7D65D09",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Mask"
@@ -470,6 +548,18 @@
 			"ShaderMapHash": "AF095FA6C6A09C1FED38F8F2523A7805044FBE5A",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "B0EC08AD5C8AAF27144E97456F6BEC72C776E255",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/FX/NS_RocketExhaust_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "3F5ACAB33DFC7B53632D28F6D7F4B73AF2A7247F",
+			"Assets": [
+				"/Engine/EditorMeshes/ColorCalibrator/M_ClearCoat"
 			]
 		},
 		{
@@ -523,7 +613,13 @@
 		{
 			"ShaderMapHash": "260173C78318C5E85A9E02FFC5CC1B47A58541E4",
 			"Assets": [
-				"/Game/Space_lvl/Sky/Skybox_space_mat"
+				"/Game/Levels/Astroid_Belt/SKY/Astroid_sky"
+			]
+		},
+		{
+			"ShaderMapHash": "EB4961C8338FDBDC18C9C2E285FE858E5F6E3506",
+			"Assets": [
+				"/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/GradientMap_Multi_Example"
 			]
 		},
 		{
@@ -545,6 +641,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "664C34D092AA0D0B5758D690C06D9D8D94702994",
+			"Assets": [
+				"/Game/Levels/asteroids-pack-metallic-version/textures/astroidMat"
+			]
+		},
+		{
 			"ShaderMapHash": "2E1A3ED14C3EC8D5DA4FFDB4C7975BB7F70EAF87",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
@@ -557,6 +659,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "93C6F6D9B2678EABA922CC2C1B12DAB336EB47A1",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/Materials/M_Smoke"
+			]
+		},
+		{
 			"ShaderMapHash": "2F0659DE21BD5814F4B94D3BFD77F089A6950A5B",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
@@ -566,6 +674,12 @@
 			"ShaderMapHash": "7DB4C5E0944182E679B6C9CBE11B66392957E4D6",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "6191CFE08B72E6CC0A654E0CB52A1ACD1F1BF992",
+			"Assets": [
+				"/Game/Space_lvl/Sky/Skybox_space_mat"
 			]
 		},
 		{
@@ -590,6 +704,12 @@
 			"ShaderMapHash": "36E147E6730B98DB0380539D0CC137AF8E2458F6",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "9DD048ED09086ECEE33222E8838EC96837EAED33",
+			"Assets": [
+				"/Niagara/DefaultAssets/M_Gnomon"
 			]
 		},
 		{
@@ -620,6 +740,18 @@
 			"ShaderMapHash": "56CCF1FBEE657B3E547FB9CBD34B05E923F5A47D",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "AA25B7FCFFCCE653ED5F5F07A43EABF743BE9968",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Basic_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "926746FDA6EB95142844ACE5C8671DEE20559B10",
+			"Assets": [
+				"/Game/RocketThrusterExhaustFX/Materials/M_Plume_Smoke"
 			]
 		},
 		{

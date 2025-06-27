@@ -1,0 +1,245 @@
+﻿Log file open, 06/24/25 07:38:24
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-D8E22CBA4ABD0E06433EBFB3B3D09B57
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../../Users/Liam/Documents/GitHub/Galactius/Galactius_project/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogInit: ExecutableName: UnrealPak.exe
+LogInit: Build: ++UE5+Release-5.5-CL-40574608
+LogInit: Platform=WindowsEditor
+LogInit: MachineId=4a8e058643082c24d2e5ff8e7a353df5
+LogInit: DeviceId=
+LogInit: Engine Version: 5.5.4-40574608+++UE5+Release-5.5
+LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
+LogInit: Net CL: 37670630
+LogInit: OS: Windows 11 (24H2) [10.0.26100.4351] (), CPU: AMD Ryzen 7 7700 8-Core Processor              , GPU: NVIDIA GeForce RTX 4070
+LogInit: Compiled (64-bit): Mar  7 2025 14:59:45
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.38.33130.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.5
+LogInit: Command Line: -CreateGlobalContainer=C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\StagedBuilds\Windows\Galactius_project\Content\Paks\global.utoc -PackageStoreManifest=C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\Cooked\Windows\Galactius_project\Metadata\packagestore.manifest -CookedDirectory=C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\Cooked\Windows -Commands="C:\Users\Liam\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt" -ScriptObjects=C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\Cooked\Windows\Galactius_project\Metadata\scriptobjects.bin -patchpaddingalign=2048 -compressionformats=Oodle -compresslevel=7 -compressmethod=Kraken -cryptokeys=C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\Cooked\Windows\Galactius_project\Metadata\Crypto.json -compressionMinBytesSaved=1024 -compressionMinPercentSaved=5 -WriteBackMetadataToAssetRegistry=Disabled -nopak
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 35
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 49
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 170
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 8
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 13
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 15
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 119
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 51
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.31ms
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: CVar [[r.DumpShaderDebugInfo:2]] deferred - dummy variable created
+LogConfig: CVar [[p.chaos.AllowCreatePhysxBodies:1]] deferred - dummy variable created
+LogConfig: CVar [[fx.SkipVectorVMBackendOptimizations:1]] deferred - dummy variable created
+LogConfig: CVar [[ds.CADTranslator.Meshing.ActivateThinZoneMeshing:0]] deferred - dummy variable created
+LogConfig: CVar [[ds.CADTranslator.Stitching.RemoveThinFaces:0]] deferred - dummy variable created
+LogConfig: Applying CVar settings from Section [Startup_Windows] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+LogConfig: Set CVar [[memory.MemoryPressureCriticalThresholdMB:512]]
+[2025.06.23-21.38.24:250][  0]LogInit: Computer: NEB
+[2025.06.23-21.38.24:250][  0]LogInit: User: Liam
+[2025.06.23-21.38.24:250][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.06.23-21.38.24:250][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.06.23-21.38.24:370][  0]LogMemory: Process is running as part of a Windows Job with separate resource limits
+[2025.06.23-21.38.24:370][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx) Virtual=39.6GB
+[2025.06.23-21.38.24:370][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.06.23-21.38.24:370][  0]LogMemory: Process Physical Memory: 61.76 MB used, 62.53 MB peak
+[2025.06.23-21.38.24:370][  0]LogMemory: Process Virtual Memory: 123.55 MB used, 123.55 MB peak
+[2025.06.23-21.38.24:370][  0]LogMemory: Physical Memory: 15801.50 MB used,  16060.31 MB free, 31861.82 MB total
+[2025.06.23-21.38.24:370][  0]LogMemory: Virtual Memory: 24370.34 MB used,  16195.47 MB free, 40565.82 MB total
+[2025.06.23-21.38.24:374][  0]LogAssetRegistry: FAssetRegistry took 0.0001 seconds to start up
+[2025.06.23-21.38.24:374][  0]LogUObjectArray: 438 objects as part of root set at end of initial load.
+[2025.06.23-21.38.24:374][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.06.23-21.38.24:375][  0]LogInit: Using OS detected language ().
+[2025.06.23-21.38.24:375][  0]LogInit: Using OS detected locale ().
+[2025.06.23-21.38.24:375][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.06.23-21.38.24:375][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.06.23-21.38.24:375][  0]LogInit: Using OS detected language ().
+[2025.06.23-21.38.24:375][  0]LogInit: Using OS detected locale ().
+[2025.06.23-21.38.24:375][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.06.23-21.38.24:375][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.06.23-21.38.24:375][  0]LogPakFile: Display: ProjectDir: ../../../../../../Users/Liam/Documents/GitHub/Galactius/Galactius_project/
+[2025.06.23-21.38.24:376][  0]LogIoStore: Display: ==================== IoStore Utils ====================
+[2025.06.23-21.38.24:377][  0]LogIoStore: Display: Parsing crypto keys from a crypto key cache file 'C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\Cooked\Windows\Galactius_project\Metadata\Crypto.json'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Container signing - DISABLED
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Directory index - ENABLED
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using compression format 'Oodle'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using memory mapping alignment '16384'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using compression block size '65536'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using compression block alignment '2048'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using compression min bytes saved '1024'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using compression min percent saved '5'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using max partition size '0'
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Not using DDC for compression
+[2025.06.23-21.38.24:379][  0]LogIoStore: Display: Using command list file: 'C:\Users\Liam\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_5.5\IoStoreCommands.txt'
+[2025.06.23-21.38.24:395][  0]LogIoStore: Display: Selected Oodle level 7 (Optimal3) from command line for shaders
+[2025.06.23-21.38.24:396][  0]LogIoStore: Display: Fetched 633 oplog items from Manifest in 0.00 seconds
+[2025.06.23-21.38.24:398][  0]LogIoStore: Display: Parsed 633 oplog items 0.00 seconds, 789 chunks
+[2025.06.23-21.38.24:401][  0]LogIoStore: Display: Using input asset registry: C:/Users/Liam/Documents/GitHub/Galactius/Galactius_project/Saved/Cooked/Windows/Galactius_project/Metadata/DevelopmentAssetRegistry.bin
+[2025.06.23-21.38.24:408][  0]LogIoStore: Display: Loaded 170 chunk hashes from AssetRegistry in 0.01 seconds, 170 hashes updated in 0.00 seconds
+[2025.06.23-21.38.24:409][  0]LogIoStore: Display: Searching for cooked assets in folder 'C:\Users\Liam\Documents\GitHub\Galactius\Galactius_project\Saved\Cooked\Windows'
+[2025.06.23-21.38.24:420][  0]LogIoStore: Display: Found '1416' files
+[2025.06.23-21.38.24:436][  0]LogIoStore: Display: Creating container targets...
+[2025.06.23-21.38.24:438][  0]OodleDataCompression: Display: Oodle v2.9.12 format for pak/iostore with method=Kraken, level=7=Optimal3
+[2025.06.23-21.38.24:475][  0]LogIoStore: Display: Parsing packages...
+[2025.06.23-21.38.24:475][  0]LogIoStore: Display: Reading package assets...
+[2025.06.23-21.38.24:481][  0]LogIoStore: Display: Packages read 619 files in 0.00 seconds, 4,219,339 total bytes, 871,152,289 bytes per second
+[2025.06.23-21.38.24:523][  0]LogIoStore: Display: Processing shader libraries, compressing with Oodle Mermaid, level 7 (Optimal3)
+[2025.06.23-21.38.24:526][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 201 groups (71 of them didn't need new indices), average uncompressed size 127532 bytes, min 490 bytes, max 982542 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.06.23-21.38.25:084][  0]LogIoStore: Display: Galactius_project-PCD3D_SM5(PCD3D_SM5): Recompressed 1884 shaders as 201 groups. Library size changed from 6860 KB (3.65 : 1 ratio) to 1759 KB (14.23 : 1 ratio), 25.64% of previous.
+[2025.06.23-21.38.25:092][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 223 groups (65 of them didn't need new indices), average uncompressed size 164094 bytes, min 2342 bytes, max 1044814 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.06.23-21.38.25:950][  0]LogIoStore: Display: Galactius_project-PCD3D_SM6(PCD3D_SM6): Recompressed 2680 shaders as 223 groups. Library size changed from 26986 KB (1.32 : 1 ratio) to 14574 KB (2.45 : 1 ratio), 54.01% of previous.
+[2025.06.23-21.38.25:955][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 359 groups (135 of them didn't need new indices), average uncompressed size 157593 bytes, min 249 bytes, max 1042473 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.06.23-21.38.27:409][  0]LogIoStore: Display: Global-PCD3D_SM5(PCD3D_SM5): Recompressed 3890 shaders as 359 groups. Library size changed from 12673 KB (4.36 : 1 ratio) to 4082 KB (13.53 : 1 ratio), 32.21% of previous.
+[2025.06.23-21.38.27:426][  0]LogShaderLibrary: Display: Created IoStoreShaderArchive header: shaders grouped in 474 groups (151 of them didn't need new indices), average uncompressed size 205260 bytes, min 1249 bytes, max 1023661 bytes (r.ShaderCodeLibrary.MaxShaderGroupSize=1048576)
+[2025.06.23-21.38.29:983][  0]LogIoStore: Display: Global-PCD3D_SM6(PCD3D_SM6): Recompressed 6420 shaders as 474 groups. Library size changed from 72470 KB (1.31 : 1 ratio) to 38312 KB (2.48 : 1 ratio), 52.87% of previous.
+[2025.06.23-21.38.29:989][  0]LogIoStore: Display: Shaders processed in 5.47 seconds
+[2025.06.23-21.38.29:990][  0]LogIoStore: Display: Initialized WriteRequestManager with MaxConcurrentSourceReads=8 (16 cores), MaxSourceBufferMemory=3072MiB
+[2025.06.23-21.38.29:992][  0]LogIoStore: Display: Processing redirects...
+[2025.06.23-21.38.29:992][  0]LogIoStore: Display: Creating disk layout...
+[2025.06.23-21.38.29:993][  0]LogIoStore: Display: Ordered 619 packages using fallback bundle order
+[2025.06.23-21.38.30:007][  0]LogIoStore: Display: Serializing container(s)...
+[2025.06.23-21.38.32:015][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [5793 compression tasks] [Physical: 2157 MiB, Virtual: 5014 MiB]
+[2025.06.23-21.38.34:025][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [5555 compression tasks] [Physical: 2179 MiB, Virtual: 5016 MiB]
+[2025.06.23-21.38.36:027][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [5312 compression tasks] [Physical: 2209 MiB, Virtual: 5016 MiB]
+[2025.06.23-21.38.38:035][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [5075 compression tasks] [Physical: 2237 MiB, Virtual: 5016 MiB]
+[2025.06.23-21.38.40:047][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [4855 compression tasks] [Physical: 2259 MiB, Virtual: 5016 MiB]
+[2025.06.23-21.38.42:054][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [4617 compression tasks] [Physical: 2285 MiB, Virtual: 5016 MiB]
+[2025.06.23-21.38.44:058][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [4381 compression tasks] [Physical: 2307 MiB, Virtual: 5010 MiB]
+[2025.06.23-21.38.46:074][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [4145 compression tasks] [Physical: 2333 MiB, Virtual: 5009 MiB]
+[2025.06.23-21.38.48:076][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [3916 compression tasks] [Physical: 2364 MiB, Virtual: 5015 MiB]
+[2025.06.23-21.38.50:080][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [3690 compression tasks] [Physical: 2389 MiB, Virtual: 5015 MiB]
+[2025.06.23-21.38.52:094][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [3461 compression tasks] [Physical: 2415 MiB, Virtual: 5015 MiB]
+[2025.06.23-21.38.54:100][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [3226 compression tasks] [Physical: 2440 MiB, Virtual: 5015 MiB]
+[2025.06.23-21.38.56:100][  0]LogIoStore: Display: Writing chunks 1218/2050... [139 compressed] [2989 compression tasks] [Physical: 2470 MiB, Virtual: 5015 MiB]
+[2025.06.23-21.38.58:107][  0]LogIoStore: Display: Writing chunks 1218/2050... [172 compressed] [2735 compression tasks] [Physical: 1727 MiB, Virtual: 4235 MiB]
+[2025.06.23-21.39.00:113][  0]LogIoStore: Display: Writing chunks 1263/2050... [172 compressed] [2435 compression tasks] [Physical: 1792 MiB, Virtual: 4236 MiB]
+[2025.06.23-21.39.02:129][  0]LogIoStore: Display: Writing chunks 1617/2050... [421 compressed] [1843 compression tasks] [Physical: 1742 MiB, Virtual: 4100 MiB]
+[2025.06.23-21.39.04:128][  0]LogIoStore: Display: Writing chunks 1879/2050... [619 compressed] [1268 compression tasks] [Physical: 1709 MiB, Virtual: 3978 MiB]
+[2025.06.23-21.39.06:134][  0]LogIoStore: Display: Writing chunks 1900/2050... [640 compressed] [854 compression tasks] [Physical: 1650 MiB, Virtual: 3870 MiB]
+[2025.06.23-21.39.08:137][  0]LogIoStore: Display: Writing chunks 1924/2050... [664 compressed] [575 compression tasks] [Physical: 1626 MiB, Virtual: 3806 MiB]
+[2025.06.23-21.39.10:144][  0]LogIoStore: Display: Writing chunks 1936/2050... [676 compressed] [287 compression tasks] [Physical: 1623 MiB, Virtual: 3746 MiB]
+[2025.06.23-21.39.11:537][  0]LogIoStore: Display: Writing and compressing took 40.98 seconds, writes to disk took 0.79 seconds for 645,387,376 bytes @ 819,699,613 bytes per second.
+[2025.06.23-21.39.11:537][  0]LogIoStore: Display: global: Found perfect hashmap for 1 items.
+[2025.06.23-21.39.11:537][  0]LogIoStore: Display: Galactius_project-Windows: Found perfect hashmap for 2049 items.
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Finalize took 0.0 seconds for 2 writers to write 426,230 bytes, 69,073,200 bytes per second
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Writing tocs... [Physical: 1617 MiB, Virtual: 3711 MiB]
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 170 / 2,050 hashes were loaded from the hash database, by type:
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     BulkData                   170
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 789 / 2,050 chunks attempted to compress, by type:
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     ExportBundleData           619 / 619
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     BulkData                   170 / 170
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     ScriptObjects              0 / 1
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     ContainerHeader            0 / 1
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     ShaderCodeLibrary          0 / 4
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     ShaderCode                 0 / 1,255
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Source bytes read:
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     Zen:                                  0
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     Loose File:               2,497,584,818
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:         ExportBundleData       2,184,670,556 bytes over 1,238 reads
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:         BulkData                312,914,262 bytes over 170 reads
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:     Memory:                     121,475,528
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:         ShaderCodeLibrary         1,204,664 bytes over 8 reads
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display:         ShaderCode              120,270,864 bytes over 2,510 reads
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Calculating stats...
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container Summary
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ==================
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container                                               Flags      Chunk(s) #       TOC (KiB)       Raw Size (MiB)           Size (MiB)
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: global                                              -/-/-/-/-               1            0.62                 2.29                 2.29 -
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Galactius_project-Windows                           C/-/-/I/-            2049          415.62              1403.34               613.19 (56.30% Oodle)
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Total                                                                    2050          416.24              1405.63               615.49
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ** Flags: (C)ompressed / (E)ncrypted / (S)igned) / (I)ndexed) / (O)nDemand **
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Compression block padding:     1.50 MiB
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container Directory Index
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ==========================
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container                                          Size (KiB)
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: global                                                   0.00
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Galactius_project-Windows                               37.57
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container Patch Report
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ========================
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container                                             Total #       Modified #          Added #   Modified (MiB)      Added (MiB)
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: global                                                      1                0                0             0.00             0.00
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Galactius_project-Windows                                2049                0             2049             0.00           611.70
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: PackageStore
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: =============
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Container                                          Size (KiB)      Packages #     Localized #
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Galactius_project-Windows                                  21             619               0
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: ----------------------------------------------------------------------------------------------------------------------------------------------
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Total                                                      21             619               0
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:       619 Packages
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:      1.02 GB UExp
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:      0.00 GB UAsset
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:      0.29 GB UBulk
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:     41.40 MB for 833 Global shaders
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:      1.57 MB for 170 Shared shaders
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:      0.00 MB for 0 Unique shaders
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Input:     14.38 MB for 252 Inline shaders
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Output:     7936 Name map entries
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Output:      744 Imported package entries
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Output:      343 Packages without imports
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Output:        0 Public runtime script objects
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Output:     0.00 GB HeaderData
+[2025.06.23-21.39.11:543][  0]LogIoStore: Display: Output:     2.29 MB InitialLoadData
+[2025.06.23-21.39.11:544][  0]LogIoStore: Display: 
+[2025.06.23-21.39.11:548][  0]LogPakFile: Display: UnrealPak executed in 47.173052 seconds
+[2025.06.23-21.39.11:559][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.06.23-21.39.11:559][  0]LogExit: Preparing to exit.
+[2025.06.23-21.39.11:560][  0]LogExit: Object subsystem successfully closed.
+[2025.06.23-21.39.11:560][  0]LogPakFile: Destroying PakPlatformFile
+[2025.06.23-21.39.11:561][  0]LogExit: Exiting.
+[2025.06.23-21.39.11:571][  0]Log file closed, 06/24/25 07:39:11
